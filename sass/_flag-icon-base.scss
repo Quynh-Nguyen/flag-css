@@ -1,3 +1,12 @@
+.fc-default {
+  background: linear-gradient(to right, #EEE 30%, #DDD 60%, #EEE 80%);
+  animation-name: moving-gradient;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
 .fc-background {
   background-size: contain;
   background-position: 50%;
@@ -30,17 +39,31 @@
     }
   }
 
-  .fc-ioc-#{$iocCode} {
-    background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
-    &.fc-squared {
-      background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+  @if variable-exists(iocCode) && ($iocCode != '') {
+    .fc-ioc-#{$iocCode} {
+      background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
+      &.fc-squared {
+        background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+      }
     }
   }
 
-  .fc-alpha3-#{$alpha3Code} {
-    background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
-    &.fc-squared {
-      background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+  @if variable-exists(alpha3Code) && ($alpha3Code != '') {
+    .fc-alpha3-#{$alpha3Code} {
+      background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
+      &.fc-squared {
+        background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+      }
     }
+  }
+}
+
+@mixin flag-css-default {
+  .fc-ioc-default {
+    @extend .fc-default;
+  }
+
+  .fc-alpha3-default {
+    @extend .fc-default;
   }
 }
