@@ -1,0 +1,46 @@
+.fc-background {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.flag-css {
+  @extend .fc-background;
+  position: relative;
+  display: inline-block;
+  width: (4 / 3) * 1em;
+  line-height: 1em;
+  &:before {
+    content: '\00a0';
+  }
+  &.flag-icon-squared {
+    width: 1em;
+  }
+}
+
+@mixin flag-css($country) {
+  $alpha2Code: to-lower-case(#{map-get($country, alpha2Code)});
+  $alpha3Code: to-lower-case(#{map-get($country, alpha3Code)});
+  $iocCode: to-lower-case(#{map-get($country, cioc)});
+
+  .fc-#{$alpha2Code} {
+    background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
+    &.fc-squared {
+      background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+    }
+  }
+
+  .fc-ioc-#{$iocCode} {
+    background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
+    &.fc-squared {
+      background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+    }
+  }
+
+  .fc-alpha3-#{$alpha3Code} {
+    background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
+    &.fc-squared {
+      background-image: url(#{$flag-icon-css-path}#{$flag-icon-square-path}/#{$alpha2Code}.svg);
+    }
+  }
+}

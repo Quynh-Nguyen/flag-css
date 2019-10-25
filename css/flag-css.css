@@ -1,0 +1,3764 @@
+.fc-background, .flag-css {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat; }
+
+.flag-css {
+  position: relative;
+  display: inline-block;
+  width: 1.33333em;
+  line-height: 1em; }
+  .flag-css:before {
+    content: '\00a0'; }
+  .flag-css.flag-icon-squared {
+    width: 1em; }
+
+.fc-af {
+  background-image: url(../flags/4x3/af.svg); }
+  .fc-af.fc-squared {
+    background-image: url(../flags/1x1/af.svg); }
+
+.fc-ioc-afg {
+  background-image: url(../flags/4x3/af.svg); }
+  .fc-ioc-afg.fc-squared {
+    background-image: url(../flags/1x1/af.svg); }
+
+.fc-alpha3-afg {
+  background-image: url(../flags/4x3/af.svg); }
+  .fc-alpha3-afg.fc-squared {
+    background-image: url(../flags/1x1/af.svg); }
+
+.fc-ax {
+  background-image: url(../flags/4x3/ax.svg); }
+  .fc-ax.fc-squared {
+    background-image: url(../flags/1x1/ax.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/ax.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/ax.svg); }
+
+.fc-alpha3-ala {
+  background-image: url(../flags/4x3/ax.svg); }
+  .fc-alpha3-ala.fc-squared {
+    background-image: url(../flags/1x1/ax.svg); }
+
+.fc-al {
+  background-image: url(../flags/4x3/al.svg); }
+  .fc-al.fc-squared {
+    background-image: url(../flags/1x1/al.svg); }
+
+.fc-ioc-alb {
+  background-image: url(../flags/4x3/al.svg); }
+  .fc-ioc-alb.fc-squared {
+    background-image: url(../flags/1x1/al.svg); }
+
+.fc-alpha3-alb {
+  background-image: url(../flags/4x3/al.svg); }
+  .fc-alpha3-alb.fc-squared {
+    background-image: url(../flags/1x1/al.svg); }
+
+.fc-dz {
+  background-image: url(../flags/4x3/dz.svg); }
+  .fc-dz.fc-squared {
+    background-image: url(../flags/1x1/dz.svg); }
+
+.fc-ioc-alg {
+  background-image: url(../flags/4x3/dz.svg); }
+  .fc-ioc-alg.fc-squared {
+    background-image: url(../flags/1x1/dz.svg); }
+
+.fc-alpha3-dza {
+  background-image: url(../flags/4x3/dz.svg); }
+  .fc-alpha3-dza.fc-squared {
+    background-image: url(../flags/1x1/dz.svg); }
+
+.fc-as {
+  background-image: url(../flags/4x3/as.svg); }
+  .fc-as.fc-squared {
+    background-image: url(../flags/1x1/as.svg); }
+
+.fc-ioc-asa {
+  background-image: url(../flags/4x3/as.svg); }
+  .fc-ioc-asa.fc-squared {
+    background-image: url(../flags/1x1/as.svg); }
+
+.fc-alpha3-asm {
+  background-image: url(../flags/4x3/as.svg); }
+  .fc-alpha3-asm.fc-squared {
+    background-image: url(../flags/1x1/as.svg); }
+
+.fc-ad {
+  background-image: url(../flags/4x3/ad.svg); }
+  .fc-ad.fc-squared {
+    background-image: url(../flags/1x1/ad.svg); }
+
+.fc-ioc-and {
+  background-image: url(../flags/4x3/ad.svg); }
+  .fc-ioc-and.fc-squared {
+    background-image: url(../flags/1x1/ad.svg); }
+
+.fc-alpha3-and {
+  background-image: url(../flags/4x3/ad.svg); }
+  .fc-alpha3-and.fc-squared {
+    background-image: url(../flags/1x1/ad.svg); }
+
+.fc-ao {
+  background-image: url(../flags/4x3/ao.svg); }
+  .fc-ao.fc-squared {
+    background-image: url(../flags/1x1/ao.svg); }
+
+.fc-ioc-ang {
+  background-image: url(../flags/4x3/ao.svg); }
+  .fc-ioc-ang.fc-squared {
+    background-image: url(../flags/1x1/ao.svg); }
+
+.fc-alpha3-ago {
+  background-image: url(../flags/4x3/ao.svg); }
+  .fc-alpha3-ago.fc-squared {
+    background-image: url(../flags/1x1/ao.svg); }
+
+.fc-ai {
+  background-image: url(../flags/4x3/ai.svg); }
+  .fc-ai.fc-squared {
+    background-image: url(../flags/1x1/ai.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/ai.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/ai.svg); }
+
+.fc-alpha3-aia {
+  background-image: url(../flags/4x3/ai.svg); }
+  .fc-alpha3-aia.fc-squared {
+    background-image: url(../flags/1x1/ai.svg); }
+
+.fc-aq {
+  background-image: url(../flags/4x3/aq.svg); }
+  .fc-aq.fc-squared {
+    background-image: url(../flags/1x1/aq.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/aq.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/aq.svg); }
+
+.fc-alpha3-ata {
+  background-image: url(../flags/4x3/aq.svg); }
+  .fc-alpha3-ata.fc-squared {
+    background-image: url(../flags/1x1/aq.svg); }
+
+.fc-ag {
+  background-image: url(../flags/4x3/ag.svg); }
+  .fc-ag.fc-squared {
+    background-image: url(../flags/1x1/ag.svg); }
+
+.fc-ioc-ant {
+  background-image: url(../flags/4x3/ag.svg); }
+  .fc-ioc-ant.fc-squared {
+    background-image: url(../flags/1x1/ag.svg); }
+
+.fc-alpha3-atg {
+  background-image: url(../flags/4x3/ag.svg); }
+  .fc-alpha3-atg.fc-squared {
+    background-image: url(../flags/1x1/ag.svg); }
+
+.fc-ar {
+  background-image: url(../flags/4x3/ar.svg); }
+  .fc-ar.fc-squared {
+    background-image: url(../flags/1x1/ar.svg); }
+
+.fc-ioc-arg {
+  background-image: url(../flags/4x3/ar.svg); }
+  .fc-ioc-arg.fc-squared {
+    background-image: url(../flags/1x1/ar.svg); }
+
+.fc-alpha3-arg {
+  background-image: url(../flags/4x3/ar.svg); }
+  .fc-alpha3-arg.fc-squared {
+    background-image: url(../flags/1x1/ar.svg); }
+
+.fc-am {
+  background-image: url(../flags/4x3/am.svg); }
+  .fc-am.fc-squared {
+    background-image: url(../flags/1x1/am.svg); }
+
+.fc-ioc-arm {
+  background-image: url(../flags/4x3/am.svg); }
+  .fc-ioc-arm.fc-squared {
+    background-image: url(../flags/1x1/am.svg); }
+
+.fc-alpha3-arm {
+  background-image: url(../flags/4x3/am.svg); }
+  .fc-alpha3-arm.fc-squared {
+    background-image: url(../flags/1x1/am.svg); }
+
+.fc-aw {
+  background-image: url(../flags/4x3/aw.svg); }
+  .fc-aw.fc-squared {
+    background-image: url(../flags/1x1/aw.svg); }
+
+.fc-ioc-aru {
+  background-image: url(../flags/4x3/aw.svg); }
+  .fc-ioc-aru.fc-squared {
+    background-image: url(../flags/1x1/aw.svg); }
+
+.fc-alpha3-abw {
+  background-image: url(../flags/4x3/aw.svg); }
+  .fc-alpha3-abw.fc-squared {
+    background-image: url(../flags/1x1/aw.svg); }
+
+.fc-au {
+  background-image: url(../flags/4x3/au.svg); }
+  .fc-au.fc-squared {
+    background-image: url(../flags/1x1/au.svg); }
+
+.fc-ioc-aus {
+  background-image: url(../flags/4x3/au.svg); }
+  .fc-ioc-aus.fc-squared {
+    background-image: url(../flags/1x1/au.svg); }
+
+.fc-alpha3-aus {
+  background-image: url(../flags/4x3/au.svg); }
+  .fc-alpha3-aus.fc-squared {
+    background-image: url(../flags/1x1/au.svg); }
+
+.fc-at {
+  background-image: url(../flags/4x3/at.svg); }
+  .fc-at.fc-squared {
+    background-image: url(../flags/1x1/at.svg); }
+
+.fc-ioc-aut {
+  background-image: url(../flags/4x3/at.svg); }
+  .fc-ioc-aut.fc-squared {
+    background-image: url(../flags/1x1/at.svg); }
+
+.fc-alpha3-aut {
+  background-image: url(../flags/4x3/at.svg); }
+  .fc-alpha3-aut.fc-squared {
+    background-image: url(../flags/1x1/at.svg); }
+
+.fc-az {
+  background-image: url(../flags/4x3/az.svg); }
+  .fc-az.fc-squared {
+    background-image: url(../flags/1x1/az.svg); }
+
+.fc-ioc-aze {
+  background-image: url(../flags/4x3/az.svg); }
+  .fc-ioc-aze.fc-squared {
+    background-image: url(../flags/1x1/az.svg); }
+
+.fc-alpha3-aze {
+  background-image: url(../flags/4x3/az.svg); }
+  .fc-alpha3-aze.fc-squared {
+    background-image: url(../flags/1x1/az.svg); }
+
+.fc-bs {
+  background-image: url(../flags/4x3/bs.svg); }
+  .fc-bs.fc-squared {
+    background-image: url(../flags/1x1/bs.svg); }
+
+.fc-ioc-bah {
+  background-image: url(../flags/4x3/bs.svg); }
+  .fc-ioc-bah.fc-squared {
+    background-image: url(../flags/1x1/bs.svg); }
+
+.fc-alpha3-bhs {
+  background-image: url(../flags/4x3/bs.svg); }
+  .fc-alpha3-bhs.fc-squared {
+    background-image: url(../flags/1x1/bs.svg); }
+
+.fc-bh {
+  background-image: url(../flags/4x3/bh.svg); }
+  .fc-bh.fc-squared {
+    background-image: url(../flags/1x1/bh.svg); }
+
+.fc-ioc-brn {
+  background-image: url(../flags/4x3/bh.svg); }
+  .fc-ioc-brn.fc-squared {
+    background-image: url(../flags/1x1/bh.svg); }
+
+.fc-alpha3-bhr {
+  background-image: url(../flags/4x3/bh.svg); }
+  .fc-alpha3-bhr.fc-squared {
+    background-image: url(../flags/1x1/bh.svg); }
+
+.fc-bd {
+  background-image: url(../flags/4x3/bd.svg); }
+  .fc-bd.fc-squared {
+    background-image: url(../flags/1x1/bd.svg); }
+
+.fc-ioc-ban {
+  background-image: url(../flags/4x3/bd.svg); }
+  .fc-ioc-ban.fc-squared {
+    background-image: url(../flags/1x1/bd.svg); }
+
+.fc-alpha3-bgd {
+  background-image: url(../flags/4x3/bd.svg); }
+  .fc-alpha3-bgd.fc-squared {
+    background-image: url(../flags/1x1/bd.svg); }
+
+.fc-bb {
+  background-image: url(../flags/4x3/bb.svg); }
+  .fc-bb.fc-squared {
+    background-image: url(../flags/1x1/bb.svg); }
+
+.fc-ioc-bar {
+  background-image: url(../flags/4x3/bb.svg); }
+  .fc-ioc-bar.fc-squared {
+    background-image: url(../flags/1x1/bb.svg); }
+
+.fc-alpha3-brb {
+  background-image: url(../flags/4x3/bb.svg); }
+  .fc-alpha3-brb.fc-squared {
+    background-image: url(../flags/1x1/bb.svg); }
+
+.fc-by {
+  background-image: url(../flags/4x3/by.svg); }
+  .fc-by.fc-squared {
+    background-image: url(../flags/1x1/by.svg); }
+
+.fc-ioc-blr {
+  background-image: url(../flags/4x3/by.svg); }
+  .fc-ioc-blr.fc-squared {
+    background-image: url(../flags/1x1/by.svg); }
+
+.fc-alpha3-blr {
+  background-image: url(../flags/4x3/by.svg); }
+  .fc-alpha3-blr.fc-squared {
+    background-image: url(../flags/1x1/by.svg); }
+
+.fc-be {
+  background-image: url(../flags/4x3/be.svg); }
+  .fc-be.fc-squared {
+    background-image: url(../flags/1x1/be.svg); }
+
+.fc-ioc-bel {
+  background-image: url(../flags/4x3/be.svg); }
+  .fc-ioc-bel.fc-squared {
+    background-image: url(../flags/1x1/be.svg); }
+
+.fc-alpha3-bel {
+  background-image: url(../flags/4x3/be.svg); }
+  .fc-alpha3-bel.fc-squared {
+    background-image: url(../flags/1x1/be.svg); }
+
+.fc-bz {
+  background-image: url(../flags/4x3/bz.svg); }
+  .fc-bz.fc-squared {
+    background-image: url(../flags/1x1/bz.svg); }
+
+.fc-ioc-biz {
+  background-image: url(../flags/4x3/bz.svg); }
+  .fc-ioc-biz.fc-squared {
+    background-image: url(../flags/1x1/bz.svg); }
+
+.fc-alpha3-blz {
+  background-image: url(../flags/4x3/bz.svg); }
+  .fc-alpha3-blz.fc-squared {
+    background-image: url(../flags/1x1/bz.svg); }
+
+.fc-bj {
+  background-image: url(../flags/4x3/bj.svg); }
+  .fc-bj.fc-squared {
+    background-image: url(../flags/1x1/bj.svg); }
+
+.fc-ioc-ben {
+  background-image: url(../flags/4x3/bj.svg); }
+  .fc-ioc-ben.fc-squared {
+    background-image: url(../flags/1x1/bj.svg); }
+
+.fc-alpha3-ben {
+  background-image: url(../flags/4x3/bj.svg); }
+  .fc-alpha3-ben.fc-squared {
+    background-image: url(../flags/1x1/bj.svg); }
+
+.fc-bm {
+  background-image: url(../flags/4x3/bm.svg); }
+  .fc-bm.fc-squared {
+    background-image: url(../flags/1x1/bm.svg); }
+
+.fc-ioc-ber {
+  background-image: url(../flags/4x3/bm.svg); }
+  .fc-ioc-ber.fc-squared {
+    background-image: url(../flags/1x1/bm.svg); }
+
+.fc-alpha3-bmu {
+  background-image: url(../flags/4x3/bm.svg); }
+  .fc-alpha3-bmu.fc-squared {
+    background-image: url(../flags/1x1/bm.svg); }
+
+.fc-bt {
+  background-image: url(../flags/4x3/bt.svg); }
+  .fc-bt.fc-squared {
+    background-image: url(../flags/1x1/bt.svg); }
+
+.fc-ioc-bhu {
+  background-image: url(../flags/4x3/bt.svg); }
+  .fc-ioc-bhu.fc-squared {
+    background-image: url(../flags/1x1/bt.svg); }
+
+.fc-alpha3-btn {
+  background-image: url(../flags/4x3/bt.svg); }
+  .fc-alpha3-btn.fc-squared {
+    background-image: url(../flags/1x1/bt.svg); }
+
+.fc-bo {
+  background-image: url(../flags/4x3/bo.svg); }
+  .fc-bo.fc-squared {
+    background-image: url(../flags/1x1/bo.svg); }
+
+.fc-ioc-bol {
+  background-image: url(../flags/4x3/bo.svg); }
+  .fc-ioc-bol.fc-squared {
+    background-image: url(../flags/1x1/bo.svg); }
+
+.fc-alpha3-bol {
+  background-image: url(../flags/4x3/bo.svg); }
+  .fc-alpha3-bol.fc-squared {
+    background-image: url(../flags/1x1/bo.svg); }
+
+.fc-bq {
+  background-image: url(../flags/4x3/bq.svg); }
+  .fc-bq.fc-squared {
+    background-image: url(../flags/1x1/bq.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/bq.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/bq.svg); }
+
+.fc-alpha3-bes {
+  background-image: url(../flags/4x3/bq.svg); }
+  .fc-alpha3-bes.fc-squared {
+    background-image: url(../flags/1x1/bq.svg); }
+
+.fc-ba {
+  background-image: url(../flags/4x3/ba.svg); }
+  .fc-ba.fc-squared {
+    background-image: url(../flags/1x1/ba.svg); }
+
+.fc-ioc-bih {
+  background-image: url(../flags/4x3/ba.svg); }
+  .fc-ioc-bih.fc-squared {
+    background-image: url(../flags/1x1/ba.svg); }
+
+.fc-alpha3-bih {
+  background-image: url(../flags/4x3/ba.svg); }
+  .fc-alpha3-bih.fc-squared {
+    background-image: url(../flags/1x1/ba.svg); }
+
+.fc-bw {
+  background-image: url(../flags/4x3/bw.svg); }
+  .fc-bw.fc-squared {
+    background-image: url(../flags/1x1/bw.svg); }
+
+.fc-ioc-bot {
+  background-image: url(../flags/4x3/bw.svg); }
+  .fc-ioc-bot.fc-squared {
+    background-image: url(../flags/1x1/bw.svg); }
+
+.fc-alpha3-bwa {
+  background-image: url(../flags/4x3/bw.svg); }
+  .fc-alpha3-bwa.fc-squared {
+    background-image: url(../flags/1x1/bw.svg); }
+
+.fc-bv {
+  background-image: url(../flags/4x3/bv.svg); }
+  .fc-bv.fc-squared {
+    background-image: url(../flags/1x1/bv.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/bv.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/bv.svg); }
+
+.fc-alpha3-bvt {
+  background-image: url(../flags/4x3/bv.svg); }
+  .fc-alpha3-bvt.fc-squared {
+    background-image: url(../flags/1x1/bv.svg); }
+
+.fc-br {
+  background-image: url(../flags/4x3/br.svg); }
+  .fc-br.fc-squared {
+    background-image: url(../flags/1x1/br.svg); }
+
+.fc-ioc-bra {
+  background-image: url(../flags/4x3/br.svg); }
+  .fc-ioc-bra.fc-squared {
+    background-image: url(../flags/1x1/br.svg); }
+
+.fc-alpha3-bra {
+  background-image: url(../flags/4x3/br.svg); }
+  .fc-alpha3-bra.fc-squared {
+    background-image: url(../flags/1x1/br.svg); }
+
+.fc-io {
+  background-image: url(../flags/4x3/io.svg); }
+  .fc-io.fc-squared {
+    background-image: url(../flags/1x1/io.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/io.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/io.svg); }
+
+.fc-alpha3-iot {
+  background-image: url(../flags/4x3/io.svg); }
+  .fc-alpha3-iot.fc-squared {
+    background-image: url(../flags/1x1/io.svg); }
+
+.fc-um {
+  background-image: url(../flags/4x3/um.svg); }
+  .fc-um.fc-squared {
+    background-image: url(../flags/1x1/um.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/um.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/um.svg); }
+
+.fc-alpha3-umi {
+  background-image: url(../flags/4x3/um.svg); }
+  .fc-alpha3-umi.fc-squared {
+    background-image: url(../flags/1x1/um.svg); }
+
+.fc-vg {
+  background-image: url(../flags/4x3/vg.svg); }
+  .fc-vg.fc-squared {
+    background-image: url(../flags/1x1/vg.svg); }
+
+.fc-ioc-ivb {
+  background-image: url(../flags/4x3/vg.svg); }
+  .fc-ioc-ivb.fc-squared {
+    background-image: url(../flags/1x1/vg.svg); }
+
+.fc-alpha3-vgb {
+  background-image: url(../flags/4x3/vg.svg); }
+  .fc-alpha3-vgb.fc-squared {
+    background-image: url(../flags/1x1/vg.svg); }
+
+.fc-vi {
+  background-image: url(../flags/4x3/vi.svg); }
+  .fc-vi.fc-squared {
+    background-image: url(../flags/1x1/vi.svg); }
+
+.fc-ioc-isv {
+  background-image: url(../flags/4x3/vi.svg); }
+  .fc-ioc-isv.fc-squared {
+    background-image: url(../flags/1x1/vi.svg); }
+
+.fc-alpha3-vir {
+  background-image: url(../flags/4x3/vi.svg); }
+  .fc-alpha3-vir.fc-squared {
+    background-image: url(../flags/1x1/vi.svg); }
+
+.fc-bn {
+  background-image: url(../flags/4x3/bn.svg); }
+  .fc-bn.fc-squared {
+    background-image: url(../flags/1x1/bn.svg); }
+
+.fc-ioc-bru {
+  background-image: url(../flags/4x3/bn.svg); }
+  .fc-ioc-bru.fc-squared {
+    background-image: url(../flags/1x1/bn.svg); }
+
+.fc-alpha3-brn {
+  background-image: url(../flags/4x3/bn.svg); }
+  .fc-alpha3-brn.fc-squared {
+    background-image: url(../flags/1x1/bn.svg); }
+
+.fc-bg {
+  background-image: url(../flags/4x3/bg.svg); }
+  .fc-bg.fc-squared {
+    background-image: url(../flags/1x1/bg.svg); }
+
+.fc-ioc-bul {
+  background-image: url(../flags/4x3/bg.svg); }
+  .fc-ioc-bul.fc-squared {
+    background-image: url(../flags/1x1/bg.svg); }
+
+.fc-alpha3-bgr {
+  background-image: url(../flags/4x3/bg.svg); }
+  .fc-alpha3-bgr.fc-squared {
+    background-image: url(../flags/1x1/bg.svg); }
+
+.fc-bf {
+  background-image: url(../flags/4x3/bf.svg); }
+  .fc-bf.fc-squared {
+    background-image: url(../flags/1x1/bf.svg); }
+
+.fc-ioc-bur {
+  background-image: url(../flags/4x3/bf.svg); }
+  .fc-ioc-bur.fc-squared {
+    background-image: url(../flags/1x1/bf.svg); }
+
+.fc-alpha3-bfa {
+  background-image: url(../flags/4x3/bf.svg); }
+  .fc-alpha3-bfa.fc-squared {
+    background-image: url(../flags/1x1/bf.svg); }
+
+.fc-bi {
+  background-image: url(../flags/4x3/bi.svg); }
+  .fc-bi.fc-squared {
+    background-image: url(../flags/1x1/bi.svg); }
+
+.fc-ioc-bdi {
+  background-image: url(../flags/4x3/bi.svg); }
+  .fc-ioc-bdi.fc-squared {
+    background-image: url(../flags/1x1/bi.svg); }
+
+.fc-alpha3-bdi {
+  background-image: url(../flags/4x3/bi.svg); }
+  .fc-alpha3-bdi.fc-squared {
+    background-image: url(../flags/1x1/bi.svg); }
+
+.fc-kh {
+  background-image: url(../flags/4x3/kh.svg); }
+  .fc-kh.fc-squared {
+    background-image: url(../flags/1x1/kh.svg); }
+
+.fc-ioc-cam {
+  background-image: url(../flags/4x3/kh.svg); }
+  .fc-ioc-cam.fc-squared {
+    background-image: url(../flags/1x1/kh.svg); }
+
+.fc-alpha3-khm {
+  background-image: url(../flags/4x3/kh.svg); }
+  .fc-alpha3-khm.fc-squared {
+    background-image: url(../flags/1x1/kh.svg); }
+
+.fc-cm {
+  background-image: url(../flags/4x3/cm.svg); }
+  .fc-cm.fc-squared {
+    background-image: url(../flags/1x1/cm.svg); }
+
+.fc-ioc-cmr {
+  background-image: url(../flags/4x3/cm.svg); }
+  .fc-ioc-cmr.fc-squared {
+    background-image: url(../flags/1x1/cm.svg); }
+
+.fc-alpha3-cmr {
+  background-image: url(../flags/4x3/cm.svg); }
+  .fc-alpha3-cmr.fc-squared {
+    background-image: url(../flags/1x1/cm.svg); }
+
+.fc-ca {
+  background-image: url(../flags/4x3/ca.svg); }
+  .fc-ca.fc-squared {
+    background-image: url(../flags/1x1/ca.svg); }
+
+.fc-ioc-can {
+  background-image: url(../flags/4x3/ca.svg); }
+  .fc-ioc-can.fc-squared {
+    background-image: url(../flags/1x1/ca.svg); }
+
+.fc-alpha3-can {
+  background-image: url(../flags/4x3/ca.svg); }
+  .fc-alpha3-can.fc-squared {
+    background-image: url(../flags/1x1/ca.svg); }
+
+.fc-cv {
+  background-image: url(../flags/4x3/cv.svg); }
+  .fc-cv.fc-squared {
+    background-image: url(../flags/1x1/cv.svg); }
+
+.fc-ioc-cpv {
+  background-image: url(../flags/4x3/cv.svg); }
+  .fc-ioc-cpv.fc-squared {
+    background-image: url(../flags/1x1/cv.svg); }
+
+.fc-alpha3-cpv {
+  background-image: url(../flags/4x3/cv.svg); }
+  .fc-alpha3-cpv.fc-squared {
+    background-image: url(../flags/1x1/cv.svg); }
+
+.fc-ky {
+  background-image: url(../flags/4x3/ky.svg); }
+  .fc-ky.fc-squared {
+    background-image: url(../flags/1x1/ky.svg); }
+
+.fc-ioc-cay {
+  background-image: url(../flags/4x3/ky.svg); }
+  .fc-ioc-cay.fc-squared {
+    background-image: url(../flags/1x1/ky.svg); }
+
+.fc-alpha3-cym {
+  background-image: url(../flags/4x3/ky.svg); }
+  .fc-alpha3-cym.fc-squared {
+    background-image: url(../flags/1x1/ky.svg); }
+
+.fc-cf {
+  background-image: url(../flags/4x3/cf.svg); }
+  .fc-cf.fc-squared {
+    background-image: url(../flags/1x1/cf.svg); }
+
+.fc-ioc-caf {
+  background-image: url(../flags/4x3/cf.svg); }
+  .fc-ioc-caf.fc-squared {
+    background-image: url(../flags/1x1/cf.svg); }
+
+.fc-alpha3-caf {
+  background-image: url(../flags/4x3/cf.svg); }
+  .fc-alpha3-caf.fc-squared {
+    background-image: url(../flags/1x1/cf.svg); }
+
+.fc-td {
+  background-image: url(../flags/4x3/td.svg); }
+  .fc-td.fc-squared {
+    background-image: url(../flags/1x1/td.svg); }
+
+.fc-ioc-cha {
+  background-image: url(../flags/4x3/td.svg); }
+  .fc-ioc-cha.fc-squared {
+    background-image: url(../flags/1x1/td.svg); }
+
+.fc-alpha3-tcd {
+  background-image: url(../flags/4x3/td.svg); }
+  .fc-alpha3-tcd.fc-squared {
+    background-image: url(../flags/1x1/td.svg); }
+
+.fc-cl {
+  background-image: url(../flags/4x3/cl.svg); }
+  .fc-cl.fc-squared {
+    background-image: url(../flags/1x1/cl.svg); }
+
+.fc-ioc-chi {
+  background-image: url(../flags/4x3/cl.svg); }
+  .fc-ioc-chi.fc-squared {
+    background-image: url(../flags/1x1/cl.svg); }
+
+.fc-alpha3-chl {
+  background-image: url(../flags/4x3/cl.svg); }
+  .fc-alpha3-chl.fc-squared {
+    background-image: url(../flags/1x1/cl.svg); }
+
+.fc-cn {
+  background-image: url(../flags/4x3/cn.svg); }
+  .fc-cn.fc-squared {
+    background-image: url(../flags/1x1/cn.svg); }
+
+.fc-ioc-chn {
+  background-image: url(../flags/4x3/cn.svg); }
+  .fc-ioc-chn.fc-squared {
+    background-image: url(../flags/1x1/cn.svg); }
+
+.fc-alpha3-chn {
+  background-image: url(../flags/4x3/cn.svg); }
+  .fc-alpha3-chn.fc-squared {
+    background-image: url(../flags/1x1/cn.svg); }
+
+.fc-cx {
+  background-image: url(../flags/4x3/cx.svg); }
+  .fc-cx.fc-squared {
+    background-image: url(../flags/1x1/cx.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/cx.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/cx.svg); }
+
+.fc-alpha3-cxr {
+  background-image: url(../flags/4x3/cx.svg); }
+  .fc-alpha3-cxr.fc-squared {
+    background-image: url(../flags/1x1/cx.svg); }
+
+.fc-cc {
+  background-image: url(../flags/4x3/cc.svg); }
+  .fc-cc.fc-squared {
+    background-image: url(../flags/1x1/cc.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/cc.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/cc.svg); }
+
+.fc-alpha3-cck {
+  background-image: url(../flags/4x3/cc.svg); }
+  .fc-alpha3-cck.fc-squared {
+    background-image: url(../flags/1x1/cc.svg); }
+
+.fc-co {
+  background-image: url(../flags/4x3/co.svg); }
+  .fc-co.fc-squared {
+    background-image: url(../flags/1x1/co.svg); }
+
+.fc-ioc-col {
+  background-image: url(../flags/4x3/co.svg); }
+  .fc-ioc-col.fc-squared {
+    background-image: url(../flags/1x1/co.svg); }
+
+.fc-alpha3-col {
+  background-image: url(../flags/4x3/co.svg); }
+  .fc-alpha3-col.fc-squared {
+    background-image: url(../flags/1x1/co.svg); }
+
+.fc-km {
+  background-image: url(../flags/4x3/km.svg); }
+  .fc-km.fc-squared {
+    background-image: url(../flags/1x1/km.svg); }
+
+.fc-ioc-com {
+  background-image: url(../flags/4x3/km.svg); }
+  .fc-ioc-com.fc-squared {
+    background-image: url(../flags/1x1/km.svg); }
+
+.fc-alpha3-com {
+  background-image: url(../flags/4x3/km.svg); }
+  .fc-alpha3-com.fc-squared {
+    background-image: url(../flags/1x1/km.svg); }
+
+.fc-cg {
+  background-image: url(../flags/4x3/cg.svg); }
+  .fc-cg.fc-squared {
+    background-image: url(../flags/1x1/cg.svg); }
+
+.fc-ioc-cgo {
+  background-image: url(../flags/4x3/cg.svg); }
+  .fc-ioc-cgo.fc-squared {
+    background-image: url(../flags/1x1/cg.svg); }
+
+.fc-alpha3-cog {
+  background-image: url(../flags/4x3/cg.svg); }
+  .fc-alpha3-cog.fc-squared {
+    background-image: url(../flags/1x1/cg.svg); }
+
+.fc-cd {
+  background-image: url(../flags/4x3/cd.svg); }
+  .fc-cd.fc-squared {
+    background-image: url(../flags/1x1/cd.svg); }
+
+.fc-ioc-cod {
+  background-image: url(../flags/4x3/cd.svg); }
+  .fc-ioc-cod.fc-squared {
+    background-image: url(../flags/1x1/cd.svg); }
+
+.fc-alpha3-cod {
+  background-image: url(../flags/4x3/cd.svg); }
+  .fc-alpha3-cod.fc-squared {
+    background-image: url(../flags/1x1/cd.svg); }
+
+.fc-ck {
+  background-image: url(../flags/4x3/ck.svg); }
+  .fc-ck.fc-squared {
+    background-image: url(../flags/1x1/ck.svg); }
+
+.fc-ioc-cok {
+  background-image: url(../flags/4x3/ck.svg); }
+  .fc-ioc-cok.fc-squared {
+    background-image: url(../flags/1x1/ck.svg); }
+
+.fc-alpha3-cok {
+  background-image: url(../flags/4x3/ck.svg); }
+  .fc-alpha3-cok.fc-squared {
+    background-image: url(../flags/1x1/ck.svg); }
+
+.fc-cr {
+  background-image: url(../flags/4x3/cr.svg); }
+  .fc-cr.fc-squared {
+    background-image: url(../flags/1x1/cr.svg); }
+
+.fc-ioc-crc {
+  background-image: url(../flags/4x3/cr.svg); }
+  .fc-ioc-crc.fc-squared {
+    background-image: url(../flags/1x1/cr.svg); }
+
+.fc-alpha3-cri {
+  background-image: url(../flags/4x3/cr.svg); }
+  .fc-alpha3-cri.fc-squared {
+    background-image: url(../flags/1x1/cr.svg); }
+
+.fc-hr {
+  background-image: url(../flags/4x3/hr.svg); }
+  .fc-hr.fc-squared {
+    background-image: url(../flags/1x1/hr.svg); }
+
+.fc-ioc-cro {
+  background-image: url(../flags/4x3/hr.svg); }
+  .fc-ioc-cro.fc-squared {
+    background-image: url(../flags/1x1/hr.svg); }
+
+.fc-alpha3-hrv {
+  background-image: url(../flags/4x3/hr.svg); }
+  .fc-alpha3-hrv.fc-squared {
+    background-image: url(../flags/1x1/hr.svg); }
+
+.fc-cu {
+  background-image: url(../flags/4x3/cu.svg); }
+  .fc-cu.fc-squared {
+    background-image: url(../flags/1x1/cu.svg); }
+
+.fc-ioc-cub {
+  background-image: url(../flags/4x3/cu.svg); }
+  .fc-ioc-cub.fc-squared {
+    background-image: url(../flags/1x1/cu.svg); }
+
+.fc-alpha3-cub {
+  background-image: url(../flags/4x3/cu.svg); }
+  .fc-alpha3-cub.fc-squared {
+    background-image: url(../flags/1x1/cu.svg); }
+
+.fc-cw {
+  background-image: url(../flags/4x3/cw.svg); }
+  .fc-cw.fc-squared {
+    background-image: url(../flags/1x1/cw.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/cw.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/cw.svg); }
+
+.fc-alpha3-cuw {
+  background-image: url(../flags/4x3/cw.svg); }
+  .fc-alpha3-cuw.fc-squared {
+    background-image: url(../flags/1x1/cw.svg); }
+
+.fc-cy {
+  background-image: url(../flags/4x3/cy.svg); }
+  .fc-cy.fc-squared {
+    background-image: url(../flags/1x1/cy.svg); }
+
+.fc-ioc-cyp {
+  background-image: url(../flags/4x3/cy.svg); }
+  .fc-ioc-cyp.fc-squared {
+    background-image: url(../flags/1x1/cy.svg); }
+
+.fc-alpha3-cyp {
+  background-image: url(../flags/4x3/cy.svg); }
+  .fc-alpha3-cyp.fc-squared {
+    background-image: url(../flags/1x1/cy.svg); }
+
+.fc-cz {
+  background-image: url(../flags/4x3/cz.svg); }
+  .fc-cz.fc-squared {
+    background-image: url(../flags/1x1/cz.svg); }
+
+.fc-ioc-cze {
+  background-image: url(../flags/4x3/cz.svg); }
+  .fc-ioc-cze.fc-squared {
+    background-image: url(../flags/1x1/cz.svg); }
+
+.fc-alpha3-cze {
+  background-image: url(../flags/4x3/cz.svg); }
+  .fc-alpha3-cze.fc-squared {
+    background-image: url(../flags/1x1/cz.svg); }
+
+.fc-dk {
+  background-image: url(../flags/4x3/dk.svg); }
+  .fc-dk.fc-squared {
+    background-image: url(../flags/1x1/dk.svg); }
+
+.fc-ioc-den {
+  background-image: url(../flags/4x3/dk.svg); }
+  .fc-ioc-den.fc-squared {
+    background-image: url(../flags/1x1/dk.svg); }
+
+.fc-alpha3-dnk {
+  background-image: url(../flags/4x3/dk.svg); }
+  .fc-alpha3-dnk.fc-squared {
+    background-image: url(../flags/1x1/dk.svg); }
+
+.fc-dj {
+  background-image: url(../flags/4x3/dj.svg); }
+  .fc-dj.fc-squared {
+    background-image: url(../flags/1x1/dj.svg); }
+
+.fc-ioc-dji {
+  background-image: url(../flags/4x3/dj.svg); }
+  .fc-ioc-dji.fc-squared {
+    background-image: url(../flags/1x1/dj.svg); }
+
+.fc-alpha3-dji {
+  background-image: url(../flags/4x3/dj.svg); }
+  .fc-alpha3-dji.fc-squared {
+    background-image: url(../flags/1x1/dj.svg); }
+
+.fc-dm {
+  background-image: url(../flags/4x3/dm.svg); }
+  .fc-dm.fc-squared {
+    background-image: url(../flags/1x1/dm.svg); }
+
+.fc-ioc-dma {
+  background-image: url(../flags/4x3/dm.svg); }
+  .fc-ioc-dma.fc-squared {
+    background-image: url(../flags/1x1/dm.svg); }
+
+.fc-alpha3-dma {
+  background-image: url(../flags/4x3/dm.svg); }
+  .fc-alpha3-dma.fc-squared {
+    background-image: url(../flags/1x1/dm.svg); }
+
+.fc-do {
+  background-image: url(../flags/4x3/do.svg); }
+  .fc-do.fc-squared {
+    background-image: url(../flags/1x1/do.svg); }
+
+.fc-ioc-dom {
+  background-image: url(../flags/4x3/do.svg); }
+  .fc-ioc-dom.fc-squared {
+    background-image: url(../flags/1x1/do.svg); }
+
+.fc-alpha3-dom {
+  background-image: url(../flags/4x3/do.svg); }
+  .fc-alpha3-dom.fc-squared {
+    background-image: url(../flags/1x1/do.svg); }
+
+.fc-ec {
+  background-image: url(../flags/4x3/ec.svg); }
+  .fc-ec.fc-squared {
+    background-image: url(../flags/1x1/ec.svg); }
+
+.fc-ioc-ecu {
+  background-image: url(../flags/4x3/ec.svg); }
+  .fc-ioc-ecu.fc-squared {
+    background-image: url(../flags/1x1/ec.svg); }
+
+.fc-alpha3-ecu {
+  background-image: url(../flags/4x3/ec.svg); }
+  .fc-alpha3-ecu.fc-squared {
+    background-image: url(../flags/1x1/ec.svg); }
+
+.fc-eg {
+  background-image: url(../flags/4x3/eg.svg); }
+  .fc-eg.fc-squared {
+    background-image: url(../flags/1x1/eg.svg); }
+
+.fc-ioc-egy {
+  background-image: url(../flags/4x3/eg.svg); }
+  .fc-ioc-egy.fc-squared {
+    background-image: url(../flags/1x1/eg.svg); }
+
+.fc-alpha3-egy {
+  background-image: url(../flags/4x3/eg.svg); }
+  .fc-alpha3-egy.fc-squared {
+    background-image: url(../flags/1x1/eg.svg); }
+
+.fc-sv {
+  background-image: url(../flags/4x3/sv.svg); }
+  .fc-sv.fc-squared {
+    background-image: url(../flags/1x1/sv.svg); }
+
+.fc-ioc-esa {
+  background-image: url(../flags/4x3/sv.svg); }
+  .fc-ioc-esa.fc-squared {
+    background-image: url(../flags/1x1/sv.svg); }
+
+.fc-alpha3-slv {
+  background-image: url(../flags/4x3/sv.svg); }
+  .fc-alpha3-slv.fc-squared {
+    background-image: url(../flags/1x1/sv.svg); }
+
+.fc-gq {
+  background-image: url(../flags/4x3/gq.svg); }
+  .fc-gq.fc-squared {
+    background-image: url(../flags/1x1/gq.svg); }
+
+.fc-ioc-geq {
+  background-image: url(../flags/4x3/gq.svg); }
+  .fc-ioc-geq.fc-squared {
+    background-image: url(../flags/1x1/gq.svg); }
+
+.fc-alpha3-gnq {
+  background-image: url(../flags/4x3/gq.svg); }
+  .fc-alpha3-gnq.fc-squared {
+    background-image: url(../flags/1x1/gq.svg); }
+
+.fc-er {
+  background-image: url(../flags/4x3/er.svg); }
+  .fc-er.fc-squared {
+    background-image: url(../flags/1x1/er.svg); }
+
+.fc-ioc-eri {
+  background-image: url(../flags/4x3/er.svg); }
+  .fc-ioc-eri.fc-squared {
+    background-image: url(../flags/1x1/er.svg); }
+
+.fc-alpha3-eri {
+  background-image: url(../flags/4x3/er.svg); }
+  .fc-alpha3-eri.fc-squared {
+    background-image: url(../flags/1x1/er.svg); }
+
+.fc-ee {
+  background-image: url(../flags/4x3/ee.svg); }
+  .fc-ee.fc-squared {
+    background-image: url(../flags/1x1/ee.svg); }
+
+.fc-ioc-est {
+  background-image: url(../flags/4x3/ee.svg); }
+  .fc-ioc-est.fc-squared {
+    background-image: url(../flags/1x1/ee.svg); }
+
+.fc-alpha3-est {
+  background-image: url(../flags/4x3/ee.svg); }
+  .fc-alpha3-est.fc-squared {
+    background-image: url(../flags/1x1/ee.svg); }
+
+.fc-et {
+  background-image: url(../flags/4x3/et.svg); }
+  .fc-et.fc-squared {
+    background-image: url(../flags/1x1/et.svg); }
+
+.fc-ioc-eth {
+  background-image: url(../flags/4x3/et.svg); }
+  .fc-ioc-eth.fc-squared {
+    background-image: url(../flags/1x1/et.svg); }
+
+.fc-alpha3-eth {
+  background-image: url(../flags/4x3/et.svg); }
+  .fc-alpha3-eth.fc-squared {
+    background-image: url(../flags/1x1/et.svg); }
+
+.fc-fk {
+  background-image: url(../flags/4x3/fk.svg); }
+  .fc-fk.fc-squared {
+    background-image: url(../flags/1x1/fk.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/fk.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/fk.svg); }
+
+.fc-alpha3-flk {
+  background-image: url(../flags/4x3/fk.svg); }
+  .fc-alpha3-flk.fc-squared {
+    background-image: url(../flags/1x1/fk.svg); }
+
+.fc-fo {
+  background-image: url(../flags/4x3/fo.svg); }
+  .fc-fo.fc-squared {
+    background-image: url(../flags/1x1/fo.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/fo.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/fo.svg); }
+
+.fc-alpha3-fro {
+  background-image: url(../flags/4x3/fo.svg); }
+  .fc-alpha3-fro.fc-squared {
+    background-image: url(../flags/1x1/fo.svg); }
+
+.fc-fj {
+  background-image: url(../flags/4x3/fj.svg); }
+  .fc-fj.fc-squared {
+    background-image: url(../flags/1x1/fj.svg); }
+
+.fc-ioc-fij {
+  background-image: url(../flags/4x3/fj.svg); }
+  .fc-ioc-fij.fc-squared {
+    background-image: url(../flags/1x1/fj.svg); }
+
+.fc-alpha3-fji {
+  background-image: url(../flags/4x3/fj.svg); }
+  .fc-alpha3-fji.fc-squared {
+    background-image: url(../flags/1x1/fj.svg); }
+
+.fc-fi {
+  background-image: url(../flags/4x3/fi.svg); }
+  .fc-fi.fc-squared {
+    background-image: url(../flags/1x1/fi.svg); }
+
+.fc-ioc-fin {
+  background-image: url(../flags/4x3/fi.svg); }
+  .fc-ioc-fin.fc-squared {
+    background-image: url(../flags/1x1/fi.svg); }
+
+.fc-alpha3-fin {
+  background-image: url(../flags/4x3/fi.svg); }
+  .fc-alpha3-fin.fc-squared {
+    background-image: url(../flags/1x1/fi.svg); }
+
+.fc-fr {
+  background-image: url(../flags/4x3/fr.svg); }
+  .fc-fr.fc-squared {
+    background-image: url(../flags/1x1/fr.svg); }
+
+.fc-ioc-fra {
+  background-image: url(../flags/4x3/fr.svg); }
+  .fc-ioc-fra.fc-squared {
+    background-image: url(../flags/1x1/fr.svg); }
+
+.fc-alpha3-fra {
+  background-image: url(../flags/4x3/fr.svg); }
+  .fc-alpha3-fra.fc-squared {
+    background-image: url(../flags/1x1/fr.svg); }
+
+.fc-gf {
+  background-image: url(../flags/4x3/gf.svg); }
+  .fc-gf.fc-squared {
+    background-image: url(../flags/1x1/gf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gf.svg); }
+
+.fc-alpha3-guf {
+  background-image: url(../flags/4x3/gf.svg); }
+  .fc-alpha3-guf.fc-squared {
+    background-image: url(../flags/1x1/gf.svg); }
+
+.fc-pf {
+  background-image: url(../flags/4x3/pf.svg); }
+  .fc-pf.fc-squared {
+    background-image: url(../flags/1x1/pf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/pf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/pf.svg); }
+
+.fc-alpha3-pyf {
+  background-image: url(../flags/4x3/pf.svg); }
+  .fc-alpha3-pyf.fc-squared {
+    background-image: url(../flags/1x1/pf.svg); }
+
+.fc-tf {
+  background-image: url(../flags/4x3/tf.svg); }
+  .fc-tf.fc-squared {
+    background-image: url(../flags/1x1/tf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/tf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/tf.svg); }
+
+.fc-alpha3-atf {
+  background-image: url(../flags/4x3/tf.svg); }
+  .fc-alpha3-atf.fc-squared {
+    background-image: url(../flags/1x1/tf.svg); }
+
+.fc-ga {
+  background-image: url(../flags/4x3/ga.svg); }
+  .fc-ga.fc-squared {
+    background-image: url(../flags/1x1/ga.svg); }
+
+.fc-ioc-gab {
+  background-image: url(../flags/4x3/ga.svg); }
+  .fc-ioc-gab.fc-squared {
+    background-image: url(../flags/1x1/ga.svg); }
+
+.fc-alpha3-gab {
+  background-image: url(../flags/4x3/ga.svg); }
+  .fc-alpha3-gab.fc-squared {
+    background-image: url(../flags/1x1/ga.svg); }
+
+.fc-gm {
+  background-image: url(../flags/4x3/gm.svg); }
+  .fc-gm.fc-squared {
+    background-image: url(../flags/1x1/gm.svg); }
+
+.fc-ioc-gam {
+  background-image: url(../flags/4x3/gm.svg); }
+  .fc-ioc-gam.fc-squared {
+    background-image: url(../flags/1x1/gm.svg); }
+
+.fc-alpha3-gmb {
+  background-image: url(../flags/4x3/gm.svg); }
+  .fc-alpha3-gmb.fc-squared {
+    background-image: url(../flags/1x1/gm.svg); }
+
+.fc-ge {
+  background-image: url(../flags/4x3/ge.svg); }
+  .fc-ge.fc-squared {
+    background-image: url(../flags/1x1/ge.svg); }
+
+.fc-ioc-geo {
+  background-image: url(../flags/4x3/ge.svg); }
+  .fc-ioc-geo.fc-squared {
+    background-image: url(../flags/1x1/ge.svg); }
+
+.fc-alpha3-geo {
+  background-image: url(../flags/4x3/ge.svg); }
+  .fc-alpha3-geo.fc-squared {
+    background-image: url(../flags/1x1/ge.svg); }
+
+.fc-de {
+  background-image: url(../flags/4x3/de.svg); }
+  .fc-de.fc-squared {
+    background-image: url(../flags/1x1/de.svg); }
+
+.fc-ioc-ger {
+  background-image: url(../flags/4x3/de.svg); }
+  .fc-ioc-ger.fc-squared {
+    background-image: url(../flags/1x1/de.svg); }
+
+.fc-alpha3-deu {
+  background-image: url(../flags/4x3/de.svg); }
+  .fc-alpha3-deu.fc-squared {
+    background-image: url(../flags/1x1/de.svg); }
+
+.fc-gh {
+  background-image: url(../flags/4x3/gh.svg); }
+  .fc-gh.fc-squared {
+    background-image: url(../flags/1x1/gh.svg); }
+
+.fc-ioc-gha {
+  background-image: url(../flags/4x3/gh.svg); }
+  .fc-ioc-gha.fc-squared {
+    background-image: url(../flags/1x1/gh.svg); }
+
+.fc-alpha3-gha {
+  background-image: url(../flags/4x3/gh.svg); }
+  .fc-alpha3-gha.fc-squared {
+    background-image: url(../flags/1x1/gh.svg); }
+
+.fc-gi {
+  background-image: url(../flags/4x3/gi.svg); }
+  .fc-gi.fc-squared {
+    background-image: url(../flags/1x1/gi.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gi.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gi.svg); }
+
+.fc-alpha3-gib {
+  background-image: url(../flags/4x3/gi.svg); }
+  .fc-alpha3-gib.fc-squared {
+    background-image: url(../flags/1x1/gi.svg); }
+
+.fc-gr {
+  background-image: url(../flags/4x3/gr.svg); }
+  .fc-gr.fc-squared {
+    background-image: url(../flags/1x1/gr.svg); }
+
+.fc-ioc-gre {
+  background-image: url(../flags/4x3/gr.svg); }
+  .fc-ioc-gre.fc-squared {
+    background-image: url(../flags/1x1/gr.svg); }
+
+.fc-alpha3-grc {
+  background-image: url(../flags/4x3/gr.svg); }
+  .fc-alpha3-grc.fc-squared {
+    background-image: url(../flags/1x1/gr.svg); }
+
+.fc-gl {
+  background-image: url(../flags/4x3/gl.svg); }
+  .fc-gl.fc-squared {
+    background-image: url(../flags/1x1/gl.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gl.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gl.svg); }
+
+.fc-alpha3-grl {
+  background-image: url(../flags/4x3/gl.svg); }
+  .fc-alpha3-grl.fc-squared {
+    background-image: url(../flags/1x1/gl.svg); }
+
+.fc-gd {
+  background-image: url(../flags/4x3/gd.svg); }
+  .fc-gd.fc-squared {
+    background-image: url(../flags/1x1/gd.svg); }
+
+.fc-ioc-grn {
+  background-image: url(../flags/4x3/gd.svg); }
+  .fc-ioc-grn.fc-squared {
+    background-image: url(../flags/1x1/gd.svg); }
+
+.fc-alpha3-grd {
+  background-image: url(../flags/4x3/gd.svg); }
+  .fc-alpha3-grd.fc-squared {
+    background-image: url(../flags/1x1/gd.svg); }
+
+.fc-gp {
+  background-image: url(../flags/4x3/gp.svg); }
+  .fc-gp.fc-squared {
+    background-image: url(../flags/1x1/gp.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gp.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gp.svg); }
+
+.fc-alpha3-glp {
+  background-image: url(../flags/4x3/gp.svg); }
+  .fc-alpha3-glp.fc-squared {
+    background-image: url(../flags/1x1/gp.svg); }
+
+.fc-gu {
+  background-image: url(../flags/4x3/gu.svg); }
+  .fc-gu.fc-squared {
+    background-image: url(../flags/1x1/gu.svg); }
+
+.fc-ioc-gum {
+  background-image: url(../flags/4x3/gu.svg); }
+  .fc-ioc-gum.fc-squared {
+    background-image: url(../flags/1x1/gu.svg); }
+
+.fc-alpha3-gum {
+  background-image: url(../flags/4x3/gu.svg); }
+  .fc-alpha3-gum.fc-squared {
+    background-image: url(../flags/1x1/gu.svg); }
+
+.fc-gt {
+  background-image: url(../flags/4x3/gt.svg); }
+  .fc-gt.fc-squared {
+    background-image: url(../flags/1x1/gt.svg); }
+
+.fc-ioc-gua {
+  background-image: url(../flags/4x3/gt.svg); }
+  .fc-ioc-gua.fc-squared {
+    background-image: url(../flags/1x1/gt.svg); }
+
+.fc-alpha3-gtm {
+  background-image: url(../flags/4x3/gt.svg); }
+  .fc-alpha3-gtm.fc-squared {
+    background-image: url(../flags/1x1/gt.svg); }
+
+.fc-gg {
+  background-image: url(../flags/4x3/gg.svg); }
+  .fc-gg.fc-squared {
+    background-image: url(../flags/1x1/gg.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gg.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gg.svg); }
+
+.fc-alpha3-ggy {
+  background-image: url(../flags/4x3/gg.svg); }
+  .fc-alpha3-ggy.fc-squared {
+    background-image: url(../flags/1x1/gg.svg); }
+
+.fc-gn {
+  background-image: url(../flags/4x3/gn.svg); }
+  .fc-gn.fc-squared {
+    background-image: url(../flags/1x1/gn.svg); }
+
+.fc-ioc-gui {
+  background-image: url(../flags/4x3/gn.svg); }
+  .fc-ioc-gui.fc-squared {
+    background-image: url(../flags/1x1/gn.svg); }
+
+.fc-alpha3-gin {
+  background-image: url(../flags/4x3/gn.svg); }
+  .fc-alpha3-gin.fc-squared {
+    background-image: url(../flags/1x1/gn.svg); }
+
+.fc-gw {
+  background-image: url(../flags/4x3/gw.svg); }
+  .fc-gw.fc-squared {
+    background-image: url(../flags/1x1/gw.svg); }
+
+.fc-ioc-gbs {
+  background-image: url(../flags/4x3/gw.svg); }
+  .fc-ioc-gbs.fc-squared {
+    background-image: url(../flags/1x1/gw.svg); }
+
+.fc-alpha3-gnb {
+  background-image: url(../flags/4x3/gw.svg); }
+  .fc-alpha3-gnb.fc-squared {
+    background-image: url(../flags/1x1/gw.svg); }
+
+.fc-gy {
+  background-image: url(../flags/4x3/gy.svg); }
+  .fc-gy.fc-squared {
+    background-image: url(../flags/1x1/gy.svg); }
+
+.fc-ioc-guy {
+  background-image: url(../flags/4x3/gy.svg); }
+  .fc-ioc-guy.fc-squared {
+    background-image: url(../flags/1x1/gy.svg); }
+
+.fc-alpha3-guy {
+  background-image: url(../flags/4x3/gy.svg); }
+  .fc-alpha3-guy.fc-squared {
+    background-image: url(../flags/1x1/gy.svg); }
+
+.fc-ht {
+  background-image: url(../flags/4x3/ht.svg); }
+  .fc-ht.fc-squared {
+    background-image: url(../flags/1x1/ht.svg); }
+
+.fc-ioc-hai {
+  background-image: url(../flags/4x3/ht.svg); }
+  .fc-ioc-hai.fc-squared {
+    background-image: url(../flags/1x1/ht.svg); }
+
+.fc-alpha3-hti {
+  background-image: url(../flags/4x3/ht.svg); }
+  .fc-alpha3-hti.fc-squared {
+    background-image: url(../flags/1x1/ht.svg); }
+
+.fc-hm {
+  background-image: url(../flags/4x3/hm.svg); }
+  .fc-hm.fc-squared {
+    background-image: url(../flags/1x1/hm.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/hm.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/hm.svg); }
+
+.fc-alpha3-hmd {
+  background-image: url(../flags/4x3/hm.svg); }
+  .fc-alpha3-hmd.fc-squared {
+    background-image: url(../flags/1x1/hm.svg); }
+
+.fc-va {
+  background-image: url(../flags/4x3/va.svg); }
+  .fc-va.fc-squared {
+    background-image: url(../flags/1x1/va.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/va.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/va.svg); }
+
+.fc-alpha3-vat {
+  background-image: url(../flags/4x3/va.svg); }
+  .fc-alpha3-vat.fc-squared {
+    background-image: url(../flags/1x1/va.svg); }
+
+.fc-hn {
+  background-image: url(../flags/4x3/hn.svg); }
+  .fc-hn.fc-squared {
+    background-image: url(../flags/1x1/hn.svg); }
+
+.fc-ioc-hon {
+  background-image: url(../flags/4x3/hn.svg); }
+  .fc-ioc-hon.fc-squared {
+    background-image: url(../flags/1x1/hn.svg); }
+
+.fc-alpha3-hnd {
+  background-image: url(../flags/4x3/hn.svg); }
+  .fc-alpha3-hnd.fc-squared {
+    background-image: url(../flags/1x1/hn.svg); }
+
+.fc-hk {
+  background-image: url(../flags/4x3/hk.svg); }
+  .fc-hk.fc-squared {
+    background-image: url(../flags/1x1/hk.svg); }
+
+.fc-ioc-hkg {
+  background-image: url(../flags/4x3/hk.svg); }
+  .fc-ioc-hkg.fc-squared {
+    background-image: url(../flags/1x1/hk.svg); }
+
+.fc-alpha3-hkg {
+  background-image: url(../flags/4x3/hk.svg); }
+  .fc-alpha3-hkg.fc-squared {
+    background-image: url(../flags/1x1/hk.svg); }
+
+.fc-hu {
+  background-image: url(../flags/4x3/hu.svg); }
+  .fc-hu.fc-squared {
+    background-image: url(../flags/1x1/hu.svg); }
+
+.fc-ioc-hun {
+  background-image: url(../flags/4x3/hu.svg); }
+  .fc-ioc-hun.fc-squared {
+    background-image: url(../flags/1x1/hu.svg); }
+
+.fc-alpha3-hun {
+  background-image: url(../flags/4x3/hu.svg); }
+  .fc-alpha3-hun.fc-squared {
+    background-image: url(../flags/1x1/hu.svg); }
+
+.fc-is {
+  background-image: url(../flags/4x3/is.svg); }
+  .fc-is.fc-squared {
+    background-image: url(../flags/1x1/is.svg); }
+
+.fc-ioc-isl {
+  background-image: url(../flags/4x3/is.svg); }
+  .fc-ioc-isl.fc-squared {
+    background-image: url(../flags/1x1/is.svg); }
+
+.fc-alpha3-isl {
+  background-image: url(../flags/4x3/is.svg); }
+  .fc-alpha3-isl.fc-squared {
+    background-image: url(../flags/1x1/is.svg); }
+
+.fc-in {
+  background-image: url(../flags/4x3/in.svg); }
+  .fc-in.fc-squared {
+    background-image: url(../flags/1x1/in.svg); }
+
+.fc-ioc-ind {
+  background-image: url(../flags/4x3/in.svg); }
+  .fc-ioc-ind.fc-squared {
+    background-image: url(../flags/1x1/in.svg); }
+
+.fc-alpha3-ind {
+  background-image: url(../flags/4x3/in.svg); }
+  .fc-alpha3-ind.fc-squared {
+    background-image: url(../flags/1x1/in.svg); }
+
+.fc-id {
+  background-image: url(../flags/4x3/id.svg); }
+  .fc-id.fc-squared {
+    background-image: url(../flags/1x1/id.svg); }
+
+.fc-ioc-ina {
+  background-image: url(../flags/4x3/id.svg); }
+  .fc-ioc-ina.fc-squared {
+    background-image: url(../flags/1x1/id.svg); }
+
+.fc-alpha3-idn {
+  background-image: url(../flags/4x3/id.svg); }
+  .fc-alpha3-idn.fc-squared {
+    background-image: url(../flags/1x1/id.svg); }
+
+.fc-ci {
+  background-image: url(../flags/4x3/ci.svg); }
+  .fc-ci.fc-squared {
+    background-image: url(../flags/1x1/ci.svg); }
+
+.fc-ioc-civ {
+  background-image: url(../flags/4x3/ci.svg); }
+  .fc-ioc-civ.fc-squared {
+    background-image: url(../flags/1x1/ci.svg); }
+
+.fc-alpha3-civ {
+  background-image: url(../flags/4x3/ci.svg); }
+  .fc-alpha3-civ.fc-squared {
+    background-image: url(../flags/1x1/ci.svg); }
+
+.fc-ir {
+  background-image: url(../flags/4x3/ir.svg); }
+  .fc-ir.fc-squared {
+    background-image: url(../flags/1x1/ir.svg); }
+
+.fc-ioc-iri {
+  background-image: url(../flags/4x3/ir.svg); }
+  .fc-ioc-iri.fc-squared {
+    background-image: url(../flags/1x1/ir.svg); }
+
+.fc-alpha3-irn {
+  background-image: url(../flags/4x3/ir.svg); }
+  .fc-alpha3-irn.fc-squared {
+    background-image: url(../flags/1x1/ir.svg); }
+
+.fc-iq {
+  background-image: url(../flags/4x3/iq.svg); }
+  .fc-iq.fc-squared {
+    background-image: url(../flags/1x1/iq.svg); }
+
+.fc-ioc-irq {
+  background-image: url(../flags/4x3/iq.svg); }
+  .fc-ioc-irq.fc-squared {
+    background-image: url(../flags/1x1/iq.svg); }
+
+.fc-alpha3-irq {
+  background-image: url(../flags/4x3/iq.svg); }
+  .fc-alpha3-irq.fc-squared {
+    background-image: url(../flags/1x1/iq.svg); }
+
+.fc-ie {
+  background-image: url(../flags/4x3/ie.svg); }
+  .fc-ie.fc-squared {
+    background-image: url(../flags/1x1/ie.svg); }
+
+.fc-ioc-irl {
+  background-image: url(../flags/4x3/ie.svg); }
+  .fc-ioc-irl.fc-squared {
+    background-image: url(../flags/1x1/ie.svg); }
+
+.fc-alpha3-irl {
+  background-image: url(../flags/4x3/ie.svg); }
+  .fc-alpha3-irl.fc-squared {
+    background-image: url(../flags/1x1/ie.svg); }
+
+.fc-im {
+  background-image: url(../flags/4x3/im.svg); }
+  .fc-im.fc-squared {
+    background-image: url(../flags/1x1/im.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/im.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/im.svg); }
+
+.fc-alpha3-imn {
+  background-image: url(../flags/4x3/im.svg); }
+  .fc-alpha3-imn.fc-squared {
+    background-image: url(../flags/1x1/im.svg); }
+
+.fc-il {
+  background-image: url(../flags/4x3/il.svg); }
+  .fc-il.fc-squared {
+    background-image: url(../flags/1x1/il.svg); }
+
+.fc-ioc-isr {
+  background-image: url(../flags/4x3/il.svg); }
+  .fc-ioc-isr.fc-squared {
+    background-image: url(../flags/1x1/il.svg); }
+
+.fc-alpha3-isr {
+  background-image: url(../flags/4x3/il.svg); }
+  .fc-alpha3-isr.fc-squared {
+    background-image: url(../flags/1x1/il.svg); }
+
+.fc-it {
+  background-image: url(../flags/4x3/it.svg); }
+  .fc-it.fc-squared {
+    background-image: url(../flags/1x1/it.svg); }
+
+.fc-ioc-ita {
+  background-image: url(../flags/4x3/it.svg); }
+  .fc-ioc-ita.fc-squared {
+    background-image: url(../flags/1x1/it.svg); }
+
+.fc-alpha3-ita {
+  background-image: url(../flags/4x3/it.svg); }
+  .fc-alpha3-ita.fc-squared {
+    background-image: url(../flags/1x1/it.svg); }
+
+.fc-jm {
+  background-image: url(../flags/4x3/jm.svg); }
+  .fc-jm.fc-squared {
+    background-image: url(../flags/1x1/jm.svg); }
+
+.fc-ioc-jam {
+  background-image: url(../flags/4x3/jm.svg); }
+  .fc-ioc-jam.fc-squared {
+    background-image: url(../flags/1x1/jm.svg); }
+
+.fc-alpha3-jam {
+  background-image: url(../flags/4x3/jm.svg); }
+  .fc-alpha3-jam.fc-squared {
+    background-image: url(../flags/1x1/jm.svg); }
+
+.fc-jp {
+  background-image: url(../flags/4x3/jp.svg); }
+  .fc-jp.fc-squared {
+    background-image: url(../flags/1x1/jp.svg); }
+
+.fc-ioc-jpn {
+  background-image: url(../flags/4x3/jp.svg); }
+  .fc-ioc-jpn.fc-squared {
+    background-image: url(../flags/1x1/jp.svg); }
+
+.fc-alpha3-jpn {
+  background-image: url(../flags/4x3/jp.svg); }
+  .fc-alpha3-jpn.fc-squared {
+    background-image: url(../flags/1x1/jp.svg); }
+
+.fc-je {
+  background-image: url(../flags/4x3/je.svg); }
+  .fc-je.fc-squared {
+    background-image: url(../flags/1x1/je.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/je.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/je.svg); }
+
+.fc-alpha3-jey {
+  background-image: url(../flags/4x3/je.svg); }
+  .fc-alpha3-jey.fc-squared {
+    background-image: url(../flags/1x1/je.svg); }
+
+.fc-jo {
+  background-image: url(../flags/4x3/jo.svg); }
+  .fc-jo.fc-squared {
+    background-image: url(../flags/1x1/jo.svg); }
+
+.fc-ioc-jor {
+  background-image: url(../flags/4x3/jo.svg); }
+  .fc-ioc-jor.fc-squared {
+    background-image: url(../flags/1x1/jo.svg); }
+
+.fc-alpha3-jor {
+  background-image: url(../flags/4x3/jo.svg); }
+  .fc-alpha3-jor.fc-squared {
+    background-image: url(../flags/1x1/jo.svg); }
+
+.fc-kz {
+  background-image: url(../flags/4x3/kz.svg); }
+  .fc-kz.fc-squared {
+    background-image: url(../flags/1x1/kz.svg); }
+
+.fc-ioc-kaz {
+  background-image: url(../flags/4x3/kz.svg); }
+  .fc-ioc-kaz.fc-squared {
+    background-image: url(../flags/1x1/kz.svg); }
+
+.fc-alpha3-kaz {
+  background-image: url(../flags/4x3/kz.svg); }
+  .fc-alpha3-kaz.fc-squared {
+    background-image: url(../flags/1x1/kz.svg); }
+
+.fc-ke {
+  background-image: url(../flags/4x3/ke.svg); }
+  .fc-ke.fc-squared {
+    background-image: url(../flags/1x1/ke.svg); }
+
+.fc-ioc-ken {
+  background-image: url(../flags/4x3/ke.svg); }
+  .fc-ioc-ken.fc-squared {
+    background-image: url(../flags/1x1/ke.svg); }
+
+.fc-alpha3-ken {
+  background-image: url(../flags/4x3/ke.svg); }
+  .fc-alpha3-ken.fc-squared {
+    background-image: url(../flags/1x1/ke.svg); }
+
+.fc-ki {
+  background-image: url(../flags/4x3/ki.svg); }
+  .fc-ki.fc-squared {
+    background-image: url(../flags/1x1/ki.svg); }
+
+.fc-ioc-kir {
+  background-image: url(../flags/4x3/ki.svg); }
+  .fc-ioc-kir.fc-squared {
+    background-image: url(../flags/1x1/ki.svg); }
+
+.fc-alpha3-kir {
+  background-image: url(../flags/4x3/ki.svg); }
+  .fc-alpha3-kir.fc-squared {
+    background-image: url(../flags/1x1/ki.svg); }
+
+.fc-kw {
+  background-image: url(../flags/4x3/kw.svg); }
+  .fc-kw.fc-squared {
+    background-image: url(../flags/1x1/kw.svg); }
+
+.fc-ioc-kuw {
+  background-image: url(../flags/4x3/kw.svg); }
+  .fc-ioc-kuw.fc-squared {
+    background-image: url(../flags/1x1/kw.svg); }
+
+.fc-alpha3-kwt {
+  background-image: url(../flags/4x3/kw.svg); }
+  .fc-alpha3-kwt.fc-squared {
+    background-image: url(../flags/1x1/kw.svg); }
+
+.fc-kg {
+  background-image: url(../flags/4x3/kg.svg); }
+  .fc-kg.fc-squared {
+    background-image: url(../flags/1x1/kg.svg); }
+
+.fc-ioc-kgz {
+  background-image: url(../flags/4x3/kg.svg); }
+  .fc-ioc-kgz.fc-squared {
+    background-image: url(../flags/1x1/kg.svg); }
+
+.fc-alpha3-kgz {
+  background-image: url(../flags/4x3/kg.svg); }
+  .fc-alpha3-kgz.fc-squared {
+    background-image: url(../flags/1x1/kg.svg); }
+
+.fc-la {
+  background-image: url(../flags/4x3/la.svg); }
+  .fc-la.fc-squared {
+    background-image: url(../flags/1x1/la.svg); }
+
+.fc-ioc-lao {
+  background-image: url(../flags/4x3/la.svg); }
+  .fc-ioc-lao.fc-squared {
+    background-image: url(../flags/1x1/la.svg); }
+
+.fc-alpha3-lao {
+  background-image: url(../flags/4x3/la.svg); }
+  .fc-alpha3-lao.fc-squared {
+    background-image: url(../flags/1x1/la.svg); }
+
+.fc-lv {
+  background-image: url(../flags/4x3/lv.svg); }
+  .fc-lv.fc-squared {
+    background-image: url(../flags/1x1/lv.svg); }
+
+.fc-ioc-lat {
+  background-image: url(../flags/4x3/lv.svg); }
+  .fc-ioc-lat.fc-squared {
+    background-image: url(../flags/1x1/lv.svg); }
+
+.fc-alpha3-lva {
+  background-image: url(../flags/4x3/lv.svg); }
+  .fc-alpha3-lva.fc-squared {
+    background-image: url(../flags/1x1/lv.svg); }
+
+.fc-lb {
+  background-image: url(../flags/4x3/lb.svg); }
+  .fc-lb.fc-squared {
+    background-image: url(../flags/1x1/lb.svg); }
+
+.fc-ioc-lib {
+  background-image: url(../flags/4x3/lb.svg); }
+  .fc-ioc-lib.fc-squared {
+    background-image: url(../flags/1x1/lb.svg); }
+
+.fc-alpha3-lbn {
+  background-image: url(../flags/4x3/lb.svg); }
+  .fc-alpha3-lbn.fc-squared {
+    background-image: url(../flags/1x1/lb.svg); }
+
+.fc-ls {
+  background-image: url(../flags/4x3/ls.svg); }
+  .fc-ls.fc-squared {
+    background-image: url(../flags/1x1/ls.svg); }
+
+.fc-ioc-les {
+  background-image: url(../flags/4x3/ls.svg); }
+  .fc-ioc-les.fc-squared {
+    background-image: url(../flags/1x1/ls.svg); }
+
+.fc-alpha3-lso {
+  background-image: url(../flags/4x3/ls.svg); }
+  .fc-alpha3-lso.fc-squared {
+    background-image: url(../flags/1x1/ls.svg); }
+
+.fc-lr {
+  background-image: url(../flags/4x3/lr.svg); }
+  .fc-lr.fc-squared {
+    background-image: url(../flags/1x1/lr.svg); }
+
+.fc-ioc-lbr {
+  background-image: url(../flags/4x3/lr.svg); }
+  .fc-ioc-lbr.fc-squared {
+    background-image: url(../flags/1x1/lr.svg); }
+
+.fc-alpha3-lbr {
+  background-image: url(../flags/4x3/lr.svg); }
+  .fc-alpha3-lbr.fc-squared {
+    background-image: url(../flags/1x1/lr.svg); }
+
+.fc-ly {
+  background-image: url(../flags/4x3/ly.svg); }
+  .fc-ly.fc-squared {
+    background-image: url(../flags/1x1/ly.svg); }
+
+.fc-ioc-lba {
+  background-image: url(../flags/4x3/ly.svg); }
+  .fc-ioc-lba.fc-squared {
+    background-image: url(../flags/1x1/ly.svg); }
+
+.fc-alpha3-lby {
+  background-image: url(../flags/4x3/ly.svg); }
+  .fc-alpha3-lby.fc-squared {
+    background-image: url(../flags/1x1/ly.svg); }
+
+.fc-li {
+  background-image: url(../flags/4x3/li.svg); }
+  .fc-li.fc-squared {
+    background-image: url(../flags/1x1/li.svg); }
+
+.fc-ioc-lie {
+  background-image: url(../flags/4x3/li.svg); }
+  .fc-ioc-lie.fc-squared {
+    background-image: url(../flags/1x1/li.svg); }
+
+.fc-alpha3-lie {
+  background-image: url(../flags/4x3/li.svg); }
+  .fc-alpha3-lie.fc-squared {
+    background-image: url(../flags/1x1/li.svg); }
+
+.fc-lt {
+  background-image: url(../flags/4x3/lt.svg); }
+  .fc-lt.fc-squared {
+    background-image: url(../flags/1x1/lt.svg); }
+
+.fc-ioc-ltu {
+  background-image: url(../flags/4x3/lt.svg); }
+  .fc-ioc-ltu.fc-squared {
+    background-image: url(../flags/1x1/lt.svg); }
+
+.fc-alpha3-ltu {
+  background-image: url(../flags/4x3/lt.svg); }
+  .fc-alpha3-ltu.fc-squared {
+    background-image: url(../flags/1x1/lt.svg); }
+
+.fc-lu {
+  background-image: url(../flags/4x3/lu.svg); }
+  .fc-lu.fc-squared {
+    background-image: url(../flags/1x1/lu.svg); }
+
+.fc-ioc-lux {
+  background-image: url(../flags/4x3/lu.svg); }
+  .fc-ioc-lux.fc-squared {
+    background-image: url(../flags/1x1/lu.svg); }
+
+.fc-alpha3-lux {
+  background-image: url(../flags/4x3/lu.svg); }
+  .fc-alpha3-lux.fc-squared {
+    background-image: url(../flags/1x1/lu.svg); }
+
+.fc-mo {
+  background-image: url(../flags/4x3/mo.svg); }
+  .fc-mo.fc-squared {
+    background-image: url(../flags/1x1/mo.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/mo.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/mo.svg); }
+
+.fc-alpha3-mac {
+  background-image: url(../flags/4x3/mo.svg); }
+  .fc-alpha3-mac.fc-squared {
+    background-image: url(../flags/1x1/mo.svg); }
+
+.fc-mk {
+  background-image: url(../flags/4x3/mk.svg); }
+  .fc-mk.fc-squared {
+    background-image: url(../flags/1x1/mk.svg); }
+
+.fc-ioc-mkd {
+  background-image: url(../flags/4x3/mk.svg); }
+  .fc-ioc-mkd.fc-squared {
+    background-image: url(../flags/1x1/mk.svg); }
+
+.fc-alpha3-mkd {
+  background-image: url(../flags/4x3/mk.svg); }
+  .fc-alpha3-mkd.fc-squared {
+    background-image: url(../flags/1x1/mk.svg); }
+
+.fc-mg {
+  background-image: url(../flags/4x3/mg.svg); }
+  .fc-mg.fc-squared {
+    background-image: url(../flags/1x1/mg.svg); }
+
+.fc-ioc-mad {
+  background-image: url(../flags/4x3/mg.svg); }
+  .fc-ioc-mad.fc-squared {
+    background-image: url(../flags/1x1/mg.svg); }
+
+.fc-alpha3-mdg {
+  background-image: url(../flags/4x3/mg.svg); }
+  .fc-alpha3-mdg.fc-squared {
+    background-image: url(../flags/1x1/mg.svg); }
+
+.fc-mw {
+  background-image: url(../flags/4x3/mw.svg); }
+  .fc-mw.fc-squared {
+    background-image: url(../flags/1x1/mw.svg); }
+
+.fc-ioc-maw {
+  background-image: url(../flags/4x3/mw.svg); }
+  .fc-ioc-maw.fc-squared {
+    background-image: url(../flags/1x1/mw.svg); }
+
+.fc-alpha3-mwi {
+  background-image: url(../flags/4x3/mw.svg); }
+  .fc-alpha3-mwi.fc-squared {
+    background-image: url(../flags/1x1/mw.svg); }
+
+.fc-my {
+  background-image: url(../flags/4x3/my.svg); }
+  .fc-my.fc-squared {
+    background-image: url(../flags/1x1/my.svg); }
+
+.fc-ioc-mas {
+  background-image: url(../flags/4x3/my.svg); }
+  .fc-ioc-mas.fc-squared {
+    background-image: url(../flags/1x1/my.svg); }
+
+.fc-alpha3-mys {
+  background-image: url(../flags/4x3/my.svg); }
+  .fc-alpha3-mys.fc-squared {
+    background-image: url(../flags/1x1/my.svg); }
+
+.fc-mv {
+  background-image: url(../flags/4x3/mv.svg); }
+  .fc-mv.fc-squared {
+    background-image: url(../flags/1x1/mv.svg); }
+
+.fc-ioc-mdv {
+  background-image: url(../flags/4x3/mv.svg); }
+  .fc-ioc-mdv.fc-squared {
+    background-image: url(../flags/1x1/mv.svg); }
+
+.fc-alpha3-mdv {
+  background-image: url(../flags/4x3/mv.svg); }
+  .fc-alpha3-mdv.fc-squared {
+    background-image: url(../flags/1x1/mv.svg); }
+
+.fc-ml {
+  background-image: url(../flags/4x3/ml.svg); }
+  .fc-ml.fc-squared {
+    background-image: url(../flags/1x1/ml.svg); }
+
+.fc-ioc-mli {
+  background-image: url(../flags/4x3/ml.svg); }
+  .fc-ioc-mli.fc-squared {
+    background-image: url(../flags/1x1/ml.svg); }
+
+.fc-alpha3-mli {
+  background-image: url(../flags/4x3/ml.svg); }
+  .fc-alpha3-mli.fc-squared {
+    background-image: url(../flags/1x1/ml.svg); }
+
+.fc-mt {
+  background-image: url(../flags/4x3/mt.svg); }
+  .fc-mt.fc-squared {
+    background-image: url(../flags/1x1/mt.svg); }
+
+.fc-ioc-mlt {
+  background-image: url(../flags/4x3/mt.svg); }
+  .fc-ioc-mlt.fc-squared {
+    background-image: url(../flags/1x1/mt.svg); }
+
+.fc-alpha3-mlt {
+  background-image: url(../flags/4x3/mt.svg); }
+  .fc-alpha3-mlt.fc-squared {
+    background-image: url(../flags/1x1/mt.svg); }
+
+.fc-mh {
+  background-image: url(../flags/4x3/mh.svg); }
+  .fc-mh.fc-squared {
+    background-image: url(../flags/1x1/mh.svg); }
+
+.fc-ioc-mhl {
+  background-image: url(../flags/4x3/mh.svg); }
+  .fc-ioc-mhl.fc-squared {
+    background-image: url(../flags/1x1/mh.svg); }
+
+.fc-alpha3-mhl {
+  background-image: url(../flags/4x3/mh.svg); }
+  .fc-alpha3-mhl.fc-squared {
+    background-image: url(../flags/1x1/mh.svg); }
+
+.fc-mq {
+  background-image: url(../flags/4x3/mq.svg); }
+  .fc-mq.fc-squared {
+    background-image: url(../flags/1x1/mq.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/mq.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/mq.svg); }
+
+.fc-alpha3-mtq {
+  background-image: url(../flags/4x3/mq.svg); }
+  .fc-alpha3-mtq.fc-squared {
+    background-image: url(../flags/1x1/mq.svg); }
+
+.fc-mr {
+  background-image: url(../flags/4x3/mr.svg); }
+  .fc-mr.fc-squared {
+    background-image: url(../flags/1x1/mr.svg); }
+
+.fc-ioc-mtn {
+  background-image: url(../flags/4x3/mr.svg); }
+  .fc-ioc-mtn.fc-squared {
+    background-image: url(../flags/1x1/mr.svg); }
+
+.fc-alpha3-mrt {
+  background-image: url(../flags/4x3/mr.svg); }
+  .fc-alpha3-mrt.fc-squared {
+    background-image: url(../flags/1x1/mr.svg); }
+
+.fc-mu {
+  background-image: url(../flags/4x3/mu.svg); }
+  .fc-mu.fc-squared {
+    background-image: url(../flags/1x1/mu.svg); }
+
+.fc-ioc-mri {
+  background-image: url(../flags/4x3/mu.svg); }
+  .fc-ioc-mri.fc-squared {
+    background-image: url(../flags/1x1/mu.svg); }
+
+.fc-alpha3-mus {
+  background-image: url(../flags/4x3/mu.svg); }
+  .fc-alpha3-mus.fc-squared {
+    background-image: url(../flags/1x1/mu.svg); }
+
+.fc-yt {
+  background-image: url(../flags/4x3/yt.svg); }
+  .fc-yt.fc-squared {
+    background-image: url(../flags/1x1/yt.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/yt.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/yt.svg); }
+
+.fc-alpha3-myt {
+  background-image: url(../flags/4x3/yt.svg); }
+  .fc-alpha3-myt.fc-squared {
+    background-image: url(../flags/1x1/yt.svg); }
+
+.fc-mx {
+  background-image: url(../flags/4x3/mx.svg); }
+  .fc-mx.fc-squared {
+    background-image: url(../flags/1x1/mx.svg); }
+
+.fc-ioc-mex {
+  background-image: url(../flags/4x3/mx.svg); }
+  .fc-ioc-mex.fc-squared {
+    background-image: url(../flags/1x1/mx.svg); }
+
+.fc-alpha3-mex {
+  background-image: url(../flags/4x3/mx.svg); }
+  .fc-alpha3-mex.fc-squared {
+    background-image: url(../flags/1x1/mx.svg); }
+
+.fc-fm {
+  background-image: url(../flags/4x3/fm.svg); }
+  .fc-fm.fc-squared {
+    background-image: url(../flags/1x1/fm.svg); }
+
+.fc-ioc-fsm {
+  background-image: url(../flags/4x3/fm.svg); }
+  .fc-ioc-fsm.fc-squared {
+    background-image: url(../flags/1x1/fm.svg); }
+
+.fc-alpha3-fsm {
+  background-image: url(../flags/4x3/fm.svg); }
+  .fc-alpha3-fsm.fc-squared {
+    background-image: url(../flags/1x1/fm.svg); }
+
+.fc-md {
+  background-image: url(../flags/4x3/md.svg); }
+  .fc-md.fc-squared {
+    background-image: url(../flags/1x1/md.svg); }
+
+.fc-ioc-mda {
+  background-image: url(../flags/4x3/md.svg); }
+  .fc-ioc-mda.fc-squared {
+    background-image: url(../flags/1x1/md.svg); }
+
+.fc-alpha3-mda {
+  background-image: url(../flags/4x3/md.svg); }
+  .fc-alpha3-mda.fc-squared {
+    background-image: url(../flags/1x1/md.svg); }
+
+.fc-mc {
+  background-image: url(../flags/4x3/mc.svg); }
+  .fc-mc.fc-squared {
+    background-image: url(../flags/1x1/mc.svg); }
+
+.fc-ioc-mon {
+  background-image: url(../flags/4x3/mc.svg); }
+  .fc-ioc-mon.fc-squared {
+    background-image: url(../flags/1x1/mc.svg); }
+
+.fc-alpha3-mco {
+  background-image: url(../flags/4x3/mc.svg); }
+  .fc-alpha3-mco.fc-squared {
+    background-image: url(../flags/1x1/mc.svg); }
+
+.fc-mn {
+  background-image: url(../flags/4x3/mn.svg); }
+  .fc-mn.fc-squared {
+    background-image: url(../flags/1x1/mn.svg); }
+
+.fc-ioc-mgl {
+  background-image: url(../flags/4x3/mn.svg); }
+  .fc-ioc-mgl.fc-squared {
+    background-image: url(../flags/1x1/mn.svg); }
+
+.fc-alpha3-mng {
+  background-image: url(../flags/4x3/mn.svg); }
+  .fc-alpha3-mng.fc-squared {
+    background-image: url(../flags/1x1/mn.svg); }
+
+.fc-me {
+  background-image: url(../flags/4x3/me.svg); }
+  .fc-me.fc-squared {
+    background-image: url(../flags/1x1/me.svg); }
+
+.fc-ioc-mne {
+  background-image: url(../flags/4x3/me.svg); }
+  .fc-ioc-mne.fc-squared {
+    background-image: url(../flags/1x1/me.svg); }
+
+.fc-alpha3-mne {
+  background-image: url(../flags/4x3/me.svg); }
+  .fc-alpha3-mne.fc-squared {
+    background-image: url(../flags/1x1/me.svg); }
+
+.fc-ms {
+  background-image: url(../flags/4x3/ms.svg); }
+  .fc-ms.fc-squared {
+    background-image: url(../flags/1x1/ms.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/ms.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/ms.svg); }
+
+.fc-alpha3-msr {
+  background-image: url(../flags/4x3/ms.svg); }
+  .fc-alpha3-msr.fc-squared {
+    background-image: url(../flags/1x1/ms.svg); }
+
+.fc-ma {
+  background-image: url(../flags/4x3/ma.svg); }
+  .fc-ma.fc-squared {
+    background-image: url(../flags/1x1/ma.svg); }
+
+.fc-ioc-mar {
+  background-image: url(../flags/4x3/ma.svg); }
+  .fc-ioc-mar.fc-squared {
+    background-image: url(../flags/1x1/ma.svg); }
+
+.fc-alpha3-mar {
+  background-image: url(../flags/4x3/ma.svg); }
+  .fc-alpha3-mar.fc-squared {
+    background-image: url(../flags/1x1/ma.svg); }
+
+.fc-mz {
+  background-image: url(../flags/4x3/mz.svg); }
+  .fc-mz.fc-squared {
+    background-image: url(../flags/1x1/mz.svg); }
+
+.fc-ioc-moz {
+  background-image: url(../flags/4x3/mz.svg); }
+  .fc-ioc-moz.fc-squared {
+    background-image: url(../flags/1x1/mz.svg); }
+
+.fc-alpha3-moz {
+  background-image: url(../flags/4x3/mz.svg); }
+  .fc-alpha3-moz.fc-squared {
+    background-image: url(../flags/1x1/mz.svg); }
+
+.fc-mm {
+  background-image: url(../flags/4x3/mm.svg); }
+  .fc-mm.fc-squared {
+    background-image: url(../flags/1x1/mm.svg); }
+
+.fc-ioc-mya {
+  background-image: url(../flags/4x3/mm.svg); }
+  .fc-ioc-mya.fc-squared {
+    background-image: url(../flags/1x1/mm.svg); }
+
+.fc-alpha3-mmr {
+  background-image: url(../flags/4x3/mm.svg); }
+  .fc-alpha3-mmr.fc-squared {
+    background-image: url(../flags/1x1/mm.svg); }
+
+.fc-na {
+  background-image: url(../flags/4x3/na.svg); }
+  .fc-na.fc-squared {
+    background-image: url(../flags/1x1/na.svg); }
+
+.fc-ioc-nam {
+  background-image: url(../flags/4x3/na.svg); }
+  .fc-ioc-nam.fc-squared {
+    background-image: url(../flags/1x1/na.svg); }
+
+.fc-alpha3-nam {
+  background-image: url(../flags/4x3/na.svg); }
+  .fc-alpha3-nam.fc-squared {
+    background-image: url(../flags/1x1/na.svg); }
+
+.fc-nr {
+  background-image: url(../flags/4x3/nr.svg); }
+  .fc-nr.fc-squared {
+    background-image: url(../flags/1x1/nr.svg); }
+
+.fc-ioc-nru {
+  background-image: url(../flags/4x3/nr.svg); }
+  .fc-ioc-nru.fc-squared {
+    background-image: url(../flags/1x1/nr.svg); }
+
+.fc-alpha3-nru {
+  background-image: url(../flags/4x3/nr.svg); }
+  .fc-alpha3-nru.fc-squared {
+    background-image: url(../flags/1x1/nr.svg); }
+
+.fc-np {
+  background-image: url(../flags/4x3/np.svg); }
+  .fc-np.fc-squared {
+    background-image: url(../flags/1x1/np.svg); }
+
+.fc-ioc-nep {
+  background-image: url(../flags/4x3/np.svg); }
+  .fc-ioc-nep.fc-squared {
+    background-image: url(../flags/1x1/np.svg); }
+
+.fc-alpha3-npl {
+  background-image: url(../flags/4x3/np.svg); }
+  .fc-alpha3-npl.fc-squared {
+    background-image: url(../flags/1x1/np.svg); }
+
+.fc-nl {
+  background-image: url(../flags/4x3/nl.svg); }
+  .fc-nl.fc-squared {
+    background-image: url(../flags/1x1/nl.svg); }
+
+.fc-ioc-ned {
+  background-image: url(../flags/4x3/nl.svg); }
+  .fc-ioc-ned.fc-squared {
+    background-image: url(../flags/1x1/nl.svg); }
+
+.fc-alpha3-nld {
+  background-image: url(../flags/4x3/nl.svg); }
+  .fc-alpha3-nld.fc-squared {
+    background-image: url(../flags/1x1/nl.svg); }
+
+.fc-nc {
+  background-image: url(../flags/4x3/nc.svg); }
+  .fc-nc.fc-squared {
+    background-image: url(../flags/1x1/nc.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/nc.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/nc.svg); }
+
+.fc-alpha3-ncl {
+  background-image: url(../flags/4x3/nc.svg); }
+  .fc-alpha3-ncl.fc-squared {
+    background-image: url(../flags/1x1/nc.svg); }
+
+.fc-nz {
+  background-image: url(../flags/4x3/nz.svg); }
+  .fc-nz.fc-squared {
+    background-image: url(../flags/1x1/nz.svg); }
+
+.fc-ioc-nzl {
+  background-image: url(../flags/4x3/nz.svg); }
+  .fc-ioc-nzl.fc-squared {
+    background-image: url(../flags/1x1/nz.svg); }
+
+.fc-alpha3-nzl {
+  background-image: url(../flags/4x3/nz.svg); }
+  .fc-alpha3-nzl.fc-squared {
+    background-image: url(../flags/1x1/nz.svg); }
+
+.fc-ni {
+  background-image: url(../flags/4x3/ni.svg); }
+  .fc-ni.fc-squared {
+    background-image: url(../flags/1x1/ni.svg); }
+
+.fc-ioc-nca {
+  background-image: url(../flags/4x3/ni.svg); }
+  .fc-ioc-nca.fc-squared {
+    background-image: url(../flags/1x1/ni.svg); }
+
+.fc-alpha3-nic {
+  background-image: url(../flags/4x3/ni.svg); }
+  .fc-alpha3-nic.fc-squared {
+    background-image: url(../flags/1x1/ni.svg); }
+
+.fc-ne {
+  background-image: url(../flags/4x3/ne.svg); }
+  .fc-ne.fc-squared {
+    background-image: url(../flags/1x1/ne.svg); }
+
+.fc-ioc-nig {
+  background-image: url(../flags/4x3/ne.svg); }
+  .fc-ioc-nig.fc-squared {
+    background-image: url(../flags/1x1/ne.svg); }
+
+.fc-alpha3-ner {
+  background-image: url(../flags/4x3/ne.svg); }
+  .fc-alpha3-ner.fc-squared {
+    background-image: url(../flags/1x1/ne.svg); }
+
+.fc-ng {
+  background-image: url(../flags/4x3/ng.svg); }
+  .fc-ng.fc-squared {
+    background-image: url(../flags/1x1/ng.svg); }
+
+.fc-ioc-ngr {
+  background-image: url(../flags/4x3/ng.svg); }
+  .fc-ioc-ngr.fc-squared {
+    background-image: url(../flags/1x1/ng.svg); }
+
+.fc-alpha3-nga {
+  background-image: url(../flags/4x3/ng.svg); }
+  .fc-alpha3-nga.fc-squared {
+    background-image: url(../flags/1x1/ng.svg); }
+
+.fc-nu {
+  background-image: url(../flags/4x3/nu.svg); }
+  .fc-nu.fc-squared {
+    background-image: url(../flags/1x1/nu.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/nu.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/nu.svg); }
+
+.fc-alpha3-niu {
+  background-image: url(../flags/4x3/nu.svg); }
+  .fc-alpha3-niu.fc-squared {
+    background-image: url(../flags/1x1/nu.svg); }
+
+.fc-nf {
+  background-image: url(../flags/4x3/nf.svg); }
+  .fc-nf.fc-squared {
+    background-image: url(../flags/1x1/nf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/nf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/nf.svg); }
+
+.fc-alpha3-nfk {
+  background-image: url(../flags/4x3/nf.svg); }
+  .fc-alpha3-nfk.fc-squared {
+    background-image: url(../flags/1x1/nf.svg); }
+
+.fc-kp {
+  background-image: url(../flags/4x3/kp.svg); }
+  .fc-kp.fc-squared {
+    background-image: url(../flags/1x1/kp.svg); }
+
+.fc-ioc-prk {
+  background-image: url(../flags/4x3/kp.svg); }
+  .fc-ioc-prk.fc-squared {
+    background-image: url(../flags/1x1/kp.svg); }
+
+.fc-alpha3-prk {
+  background-image: url(../flags/4x3/kp.svg); }
+  .fc-alpha3-prk.fc-squared {
+    background-image: url(../flags/1x1/kp.svg); }
+
+.fc-mp {
+  background-image: url(../flags/4x3/mp.svg); }
+  .fc-mp.fc-squared {
+    background-image: url(../flags/1x1/mp.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/mp.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/mp.svg); }
+
+.fc-alpha3-mnp {
+  background-image: url(../flags/4x3/mp.svg); }
+  .fc-alpha3-mnp.fc-squared {
+    background-image: url(../flags/1x1/mp.svg); }
+
+.fc-no {
+  background-image: url(../flags/4x3/no.svg); }
+  .fc-no.fc-squared {
+    background-image: url(../flags/1x1/no.svg); }
+
+.fc-ioc-nor {
+  background-image: url(../flags/4x3/no.svg); }
+  .fc-ioc-nor.fc-squared {
+    background-image: url(../flags/1x1/no.svg); }
+
+.fc-alpha3-nor {
+  background-image: url(../flags/4x3/no.svg); }
+  .fc-alpha3-nor.fc-squared {
+    background-image: url(../flags/1x1/no.svg); }
+
+.fc-om {
+  background-image: url(../flags/4x3/om.svg); }
+  .fc-om.fc-squared {
+    background-image: url(../flags/1x1/om.svg); }
+
+.fc-ioc-oma {
+  background-image: url(../flags/4x3/om.svg); }
+  .fc-ioc-oma.fc-squared {
+    background-image: url(../flags/1x1/om.svg); }
+
+.fc-alpha3-omn {
+  background-image: url(../flags/4x3/om.svg); }
+  .fc-alpha3-omn.fc-squared {
+    background-image: url(../flags/1x1/om.svg); }
+
+.fc-pk {
+  background-image: url(../flags/4x3/pk.svg); }
+  .fc-pk.fc-squared {
+    background-image: url(../flags/1x1/pk.svg); }
+
+.fc-ioc-pak {
+  background-image: url(../flags/4x3/pk.svg); }
+  .fc-ioc-pak.fc-squared {
+    background-image: url(../flags/1x1/pk.svg); }
+
+.fc-alpha3-pak {
+  background-image: url(../flags/4x3/pk.svg); }
+  .fc-alpha3-pak.fc-squared {
+    background-image: url(../flags/1x1/pk.svg); }
+
+.fc-pw {
+  background-image: url(../flags/4x3/pw.svg); }
+  .fc-pw.fc-squared {
+    background-image: url(../flags/1x1/pw.svg); }
+
+.fc-ioc-plw {
+  background-image: url(../flags/4x3/pw.svg); }
+  .fc-ioc-plw.fc-squared {
+    background-image: url(../flags/1x1/pw.svg); }
+
+.fc-alpha3-plw {
+  background-image: url(../flags/4x3/pw.svg); }
+  .fc-alpha3-plw.fc-squared {
+    background-image: url(../flags/1x1/pw.svg); }
+
+.fc-ps {
+  background-image: url(../flags/4x3/ps.svg); }
+  .fc-ps.fc-squared {
+    background-image: url(../flags/1x1/ps.svg); }
+
+.fc-ioc-ple {
+  background-image: url(../flags/4x3/ps.svg); }
+  .fc-ioc-ple.fc-squared {
+    background-image: url(../flags/1x1/ps.svg); }
+
+.fc-alpha3-pse {
+  background-image: url(../flags/4x3/ps.svg); }
+  .fc-alpha3-pse.fc-squared {
+    background-image: url(../flags/1x1/ps.svg); }
+
+.fc-pa {
+  background-image: url(../flags/4x3/pa.svg); }
+  .fc-pa.fc-squared {
+    background-image: url(../flags/1x1/pa.svg); }
+
+.fc-ioc-pan {
+  background-image: url(../flags/4x3/pa.svg); }
+  .fc-ioc-pan.fc-squared {
+    background-image: url(../flags/1x1/pa.svg); }
+
+.fc-alpha3-pan {
+  background-image: url(../flags/4x3/pa.svg); }
+  .fc-alpha3-pan.fc-squared {
+    background-image: url(../flags/1x1/pa.svg); }
+
+.fc-pg {
+  background-image: url(../flags/4x3/pg.svg); }
+  .fc-pg.fc-squared {
+    background-image: url(../flags/1x1/pg.svg); }
+
+.fc-ioc-png {
+  background-image: url(../flags/4x3/pg.svg); }
+  .fc-ioc-png.fc-squared {
+    background-image: url(../flags/1x1/pg.svg); }
+
+.fc-alpha3-png {
+  background-image: url(../flags/4x3/pg.svg); }
+  .fc-alpha3-png.fc-squared {
+    background-image: url(../flags/1x1/pg.svg); }
+
+.fc-py {
+  background-image: url(../flags/4x3/py.svg); }
+  .fc-py.fc-squared {
+    background-image: url(../flags/1x1/py.svg); }
+
+.fc-ioc-par {
+  background-image: url(../flags/4x3/py.svg); }
+  .fc-ioc-par.fc-squared {
+    background-image: url(../flags/1x1/py.svg); }
+
+.fc-alpha3-pry {
+  background-image: url(../flags/4x3/py.svg); }
+  .fc-alpha3-pry.fc-squared {
+    background-image: url(../flags/1x1/py.svg); }
+
+.fc-pe {
+  background-image: url(../flags/4x3/pe.svg); }
+  .fc-pe.fc-squared {
+    background-image: url(../flags/1x1/pe.svg); }
+
+.fc-ioc-per {
+  background-image: url(../flags/4x3/pe.svg); }
+  .fc-ioc-per.fc-squared {
+    background-image: url(../flags/1x1/pe.svg); }
+
+.fc-alpha3-per {
+  background-image: url(../flags/4x3/pe.svg); }
+  .fc-alpha3-per.fc-squared {
+    background-image: url(../flags/1x1/pe.svg); }
+
+.fc-ph {
+  background-image: url(../flags/4x3/ph.svg); }
+  .fc-ph.fc-squared {
+    background-image: url(../flags/1x1/ph.svg); }
+
+.fc-ioc-phi {
+  background-image: url(../flags/4x3/ph.svg); }
+  .fc-ioc-phi.fc-squared {
+    background-image: url(../flags/1x1/ph.svg); }
+
+.fc-alpha3-phl {
+  background-image: url(../flags/4x3/ph.svg); }
+  .fc-alpha3-phl.fc-squared {
+    background-image: url(../flags/1x1/ph.svg); }
+
+.fc-pn {
+  background-image: url(../flags/4x3/pn.svg); }
+  .fc-pn.fc-squared {
+    background-image: url(../flags/1x1/pn.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/pn.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/pn.svg); }
+
+.fc-alpha3-pcn {
+  background-image: url(../flags/4x3/pn.svg); }
+  .fc-alpha3-pcn.fc-squared {
+    background-image: url(../flags/1x1/pn.svg); }
+
+.fc-pl {
+  background-image: url(../flags/4x3/pl.svg); }
+  .fc-pl.fc-squared {
+    background-image: url(../flags/1x1/pl.svg); }
+
+.fc-ioc-pol {
+  background-image: url(../flags/4x3/pl.svg); }
+  .fc-ioc-pol.fc-squared {
+    background-image: url(../flags/1x1/pl.svg); }
+
+.fc-alpha3-pol {
+  background-image: url(../flags/4x3/pl.svg); }
+  .fc-alpha3-pol.fc-squared {
+    background-image: url(../flags/1x1/pl.svg); }
+
+.fc-pt {
+  background-image: url(../flags/4x3/pt.svg); }
+  .fc-pt.fc-squared {
+    background-image: url(../flags/1x1/pt.svg); }
+
+.fc-ioc-por {
+  background-image: url(../flags/4x3/pt.svg); }
+  .fc-ioc-por.fc-squared {
+    background-image: url(../flags/1x1/pt.svg); }
+
+.fc-alpha3-prt {
+  background-image: url(../flags/4x3/pt.svg); }
+  .fc-alpha3-prt.fc-squared {
+    background-image: url(../flags/1x1/pt.svg); }
+
+.fc-pr {
+  background-image: url(../flags/4x3/pr.svg); }
+  .fc-pr.fc-squared {
+    background-image: url(../flags/1x1/pr.svg); }
+
+.fc-ioc-pur {
+  background-image: url(../flags/4x3/pr.svg); }
+  .fc-ioc-pur.fc-squared {
+    background-image: url(../flags/1x1/pr.svg); }
+
+.fc-alpha3-pri {
+  background-image: url(../flags/4x3/pr.svg); }
+  .fc-alpha3-pri.fc-squared {
+    background-image: url(../flags/1x1/pr.svg); }
+
+.fc-qa {
+  background-image: url(../flags/4x3/qa.svg); }
+  .fc-qa.fc-squared {
+    background-image: url(../flags/1x1/qa.svg); }
+
+.fc-ioc-qat {
+  background-image: url(../flags/4x3/qa.svg); }
+  .fc-ioc-qat.fc-squared {
+    background-image: url(../flags/1x1/qa.svg); }
+
+.fc-alpha3-qat {
+  background-image: url(../flags/4x3/qa.svg); }
+  .fc-alpha3-qat.fc-squared {
+    background-image: url(../flags/1x1/qa.svg); }
+
+.fc-xk {
+  background-image: url(../flags/4x3/xk.svg); }
+  .fc-xk.fc-squared {
+    background-image: url(../flags/1x1/xk.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/xk.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/xk.svg); }
+
+.fc-alpha3-kos {
+  background-image: url(../flags/4x3/xk.svg); }
+  .fc-alpha3-kos.fc-squared {
+    background-image: url(../flags/1x1/xk.svg); }
+
+.fc-re {
+  background-image: url(../flags/4x3/re.svg); }
+  .fc-re.fc-squared {
+    background-image: url(../flags/1x1/re.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/re.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/re.svg); }
+
+.fc-alpha3-reu {
+  background-image: url(../flags/4x3/re.svg); }
+  .fc-alpha3-reu.fc-squared {
+    background-image: url(../flags/1x1/re.svg); }
+
+.fc-ro {
+  background-image: url(../flags/4x3/ro.svg); }
+  .fc-ro.fc-squared {
+    background-image: url(../flags/1x1/ro.svg); }
+
+.fc-ioc-rou {
+  background-image: url(../flags/4x3/ro.svg); }
+  .fc-ioc-rou.fc-squared {
+    background-image: url(../flags/1x1/ro.svg); }
+
+.fc-alpha3-rou {
+  background-image: url(../flags/4x3/ro.svg); }
+  .fc-alpha3-rou.fc-squared {
+    background-image: url(../flags/1x1/ro.svg); }
+
+.fc-ru {
+  background-image: url(../flags/4x3/ru.svg); }
+  .fc-ru.fc-squared {
+    background-image: url(../flags/1x1/ru.svg); }
+
+.fc-ioc-rus {
+  background-image: url(../flags/4x3/ru.svg); }
+  .fc-ioc-rus.fc-squared {
+    background-image: url(../flags/1x1/ru.svg); }
+
+.fc-alpha3-rus {
+  background-image: url(../flags/4x3/ru.svg); }
+  .fc-alpha3-rus.fc-squared {
+    background-image: url(../flags/1x1/ru.svg); }
+
+.fc-rw {
+  background-image: url(../flags/4x3/rw.svg); }
+  .fc-rw.fc-squared {
+    background-image: url(../flags/1x1/rw.svg); }
+
+.fc-ioc-rwa {
+  background-image: url(../flags/4x3/rw.svg); }
+  .fc-ioc-rwa.fc-squared {
+    background-image: url(../flags/1x1/rw.svg); }
+
+.fc-alpha3-rwa {
+  background-image: url(../flags/4x3/rw.svg); }
+  .fc-alpha3-rwa.fc-squared {
+    background-image: url(../flags/1x1/rw.svg); }
+
+.fc-bl {
+  background-image: url(../flags/4x3/bl.svg); }
+  .fc-bl.fc-squared {
+    background-image: url(../flags/1x1/bl.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/bl.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/bl.svg); }
+
+.fc-alpha3-blm {
+  background-image: url(../flags/4x3/bl.svg); }
+  .fc-alpha3-blm.fc-squared {
+    background-image: url(../flags/1x1/bl.svg); }
+
+.fc-sh {
+  background-image: url(../flags/4x3/sh.svg); }
+  .fc-sh.fc-squared {
+    background-image: url(../flags/1x1/sh.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/sh.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/sh.svg); }
+
+.fc-alpha3-shn {
+  background-image: url(../flags/4x3/sh.svg); }
+  .fc-alpha3-shn.fc-squared {
+    background-image: url(../flags/1x1/sh.svg); }
+
+.fc-kn {
+  background-image: url(../flags/4x3/kn.svg); }
+  .fc-kn.fc-squared {
+    background-image: url(../flags/1x1/kn.svg); }
+
+.fc-ioc-skn {
+  background-image: url(../flags/4x3/kn.svg); }
+  .fc-ioc-skn.fc-squared {
+    background-image: url(../flags/1x1/kn.svg); }
+
+.fc-alpha3-kna {
+  background-image: url(../flags/4x3/kn.svg); }
+  .fc-alpha3-kna.fc-squared {
+    background-image: url(../flags/1x1/kn.svg); }
+
+.fc-lc {
+  background-image: url(../flags/4x3/lc.svg); }
+  .fc-lc.fc-squared {
+    background-image: url(../flags/1x1/lc.svg); }
+
+.fc-ioc-lca {
+  background-image: url(../flags/4x3/lc.svg); }
+  .fc-ioc-lca.fc-squared {
+    background-image: url(../flags/1x1/lc.svg); }
+
+.fc-alpha3-lca {
+  background-image: url(../flags/4x3/lc.svg); }
+  .fc-alpha3-lca.fc-squared {
+    background-image: url(../flags/1x1/lc.svg); }
+
+.fc-mf {
+  background-image: url(../flags/4x3/mf.svg); }
+  .fc-mf.fc-squared {
+    background-image: url(../flags/1x1/mf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/mf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/mf.svg); }
+
+.fc-alpha3-maf {
+  background-image: url(../flags/4x3/mf.svg); }
+  .fc-alpha3-maf.fc-squared {
+    background-image: url(../flags/1x1/mf.svg); }
+
+.fc-pm {
+  background-image: url(../flags/4x3/pm.svg); }
+  .fc-pm.fc-squared {
+    background-image: url(../flags/1x1/pm.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/pm.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/pm.svg); }
+
+.fc-alpha3-spm {
+  background-image: url(../flags/4x3/pm.svg); }
+  .fc-alpha3-spm.fc-squared {
+    background-image: url(../flags/1x1/pm.svg); }
+
+.fc-vc {
+  background-image: url(../flags/4x3/vc.svg); }
+  .fc-vc.fc-squared {
+    background-image: url(../flags/1x1/vc.svg); }
+
+.fc-ioc-vin {
+  background-image: url(../flags/4x3/vc.svg); }
+  .fc-ioc-vin.fc-squared {
+    background-image: url(../flags/1x1/vc.svg); }
+
+.fc-alpha3-vct {
+  background-image: url(../flags/4x3/vc.svg); }
+  .fc-alpha3-vct.fc-squared {
+    background-image: url(../flags/1x1/vc.svg); }
+
+.fc-ws {
+  background-image: url(../flags/4x3/ws.svg); }
+  .fc-ws.fc-squared {
+    background-image: url(../flags/1x1/ws.svg); }
+
+.fc-ioc-sam {
+  background-image: url(../flags/4x3/ws.svg); }
+  .fc-ioc-sam.fc-squared {
+    background-image: url(../flags/1x1/ws.svg); }
+
+.fc-alpha3-wsm {
+  background-image: url(../flags/4x3/ws.svg); }
+  .fc-alpha3-wsm.fc-squared {
+    background-image: url(../flags/1x1/ws.svg); }
+
+.fc-sm {
+  background-image: url(../flags/4x3/sm.svg); }
+  .fc-sm.fc-squared {
+    background-image: url(../flags/1x1/sm.svg); }
+
+.fc-ioc-smr {
+  background-image: url(../flags/4x3/sm.svg); }
+  .fc-ioc-smr.fc-squared {
+    background-image: url(../flags/1x1/sm.svg); }
+
+.fc-alpha3-smr {
+  background-image: url(../flags/4x3/sm.svg); }
+  .fc-alpha3-smr.fc-squared {
+    background-image: url(../flags/1x1/sm.svg); }
+
+.fc-st {
+  background-image: url(../flags/4x3/st.svg); }
+  .fc-st.fc-squared {
+    background-image: url(../flags/1x1/st.svg); }
+
+.fc-ioc-stp {
+  background-image: url(../flags/4x3/st.svg); }
+  .fc-ioc-stp.fc-squared {
+    background-image: url(../flags/1x1/st.svg); }
+
+.fc-alpha3-stp {
+  background-image: url(../flags/4x3/st.svg); }
+  .fc-alpha3-stp.fc-squared {
+    background-image: url(../flags/1x1/st.svg); }
+
+.fc-sa {
+  background-image: url(../flags/4x3/sa.svg); }
+  .fc-sa.fc-squared {
+    background-image: url(../flags/1x1/sa.svg); }
+
+.fc-ioc-ksa {
+  background-image: url(../flags/4x3/sa.svg); }
+  .fc-ioc-ksa.fc-squared {
+    background-image: url(../flags/1x1/sa.svg); }
+
+.fc-alpha3-sau {
+  background-image: url(../flags/4x3/sa.svg); }
+  .fc-alpha3-sau.fc-squared {
+    background-image: url(../flags/1x1/sa.svg); }
+
+.fc-sn {
+  background-image: url(../flags/4x3/sn.svg); }
+  .fc-sn.fc-squared {
+    background-image: url(../flags/1x1/sn.svg); }
+
+.fc-ioc-sen {
+  background-image: url(../flags/4x3/sn.svg); }
+  .fc-ioc-sen.fc-squared {
+    background-image: url(../flags/1x1/sn.svg); }
+
+.fc-alpha3-sen {
+  background-image: url(../flags/4x3/sn.svg); }
+  .fc-alpha3-sen.fc-squared {
+    background-image: url(../flags/1x1/sn.svg); }
+
+.fc-rs {
+  background-image: url(../flags/4x3/rs.svg); }
+  .fc-rs.fc-squared {
+    background-image: url(../flags/1x1/rs.svg); }
+
+.fc-ioc-srb {
+  background-image: url(../flags/4x3/rs.svg); }
+  .fc-ioc-srb.fc-squared {
+    background-image: url(../flags/1x1/rs.svg); }
+
+.fc-alpha3-srb {
+  background-image: url(../flags/4x3/rs.svg); }
+  .fc-alpha3-srb.fc-squared {
+    background-image: url(../flags/1x1/rs.svg); }
+
+.fc-sc {
+  background-image: url(../flags/4x3/sc.svg); }
+  .fc-sc.fc-squared {
+    background-image: url(../flags/1x1/sc.svg); }
+
+.fc-ioc-sey {
+  background-image: url(../flags/4x3/sc.svg); }
+  .fc-ioc-sey.fc-squared {
+    background-image: url(../flags/1x1/sc.svg); }
+
+.fc-alpha3-syc {
+  background-image: url(../flags/4x3/sc.svg); }
+  .fc-alpha3-syc.fc-squared {
+    background-image: url(../flags/1x1/sc.svg); }
+
+.fc-sl {
+  background-image: url(../flags/4x3/sl.svg); }
+  .fc-sl.fc-squared {
+    background-image: url(../flags/1x1/sl.svg); }
+
+.fc-ioc-sle {
+  background-image: url(../flags/4x3/sl.svg); }
+  .fc-ioc-sle.fc-squared {
+    background-image: url(../flags/1x1/sl.svg); }
+
+.fc-alpha3-sle {
+  background-image: url(../flags/4x3/sl.svg); }
+  .fc-alpha3-sle.fc-squared {
+    background-image: url(../flags/1x1/sl.svg); }
+
+.fc-sg {
+  background-image: url(../flags/4x3/sg.svg); }
+  .fc-sg.fc-squared {
+    background-image: url(../flags/1x1/sg.svg); }
+
+.fc-ioc-sin {
+  background-image: url(../flags/4x3/sg.svg); }
+  .fc-ioc-sin.fc-squared {
+    background-image: url(../flags/1x1/sg.svg); }
+
+.fc-alpha3-sgp {
+  background-image: url(../flags/4x3/sg.svg); }
+  .fc-alpha3-sgp.fc-squared {
+    background-image: url(../flags/1x1/sg.svg); }
+
+.fc-sx {
+  background-image: url(../flags/4x3/sx.svg); }
+  .fc-sx.fc-squared {
+    background-image: url(../flags/1x1/sx.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/sx.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/sx.svg); }
+
+.fc-alpha3-sxm {
+  background-image: url(../flags/4x3/sx.svg); }
+  .fc-alpha3-sxm.fc-squared {
+    background-image: url(../flags/1x1/sx.svg); }
+
+.fc-sk {
+  background-image: url(../flags/4x3/sk.svg); }
+  .fc-sk.fc-squared {
+    background-image: url(../flags/1x1/sk.svg); }
+
+.fc-ioc-svk {
+  background-image: url(../flags/4x3/sk.svg); }
+  .fc-ioc-svk.fc-squared {
+    background-image: url(../flags/1x1/sk.svg); }
+
+.fc-alpha3-svk {
+  background-image: url(../flags/4x3/sk.svg); }
+  .fc-alpha3-svk.fc-squared {
+    background-image: url(../flags/1x1/sk.svg); }
+
+.fc-si {
+  background-image: url(../flags/4x3/si.svg); }
+  .fc-si.fc-squared {
+    background-image: url(../flags/1x1/si.svg); }
+
+.fc-ioc-slo {
+  background-image: url(../flags/4x3/si.svg); }
+  .fc-ioc-slo.fc-squared {
+    background-image: url(../flags/1x1/si.svg); }
+
+.fc-alpha3-svn {
+  background-image: url(../flags/4x3/si.svg); }
+  .fc-alpha3-svn.fc-squared {
+    background-image: url(../flags/1x1/si.svg); }
+
+.fc-sb {
+  background-image: url(../flags/4x3/sb.svg); }
+  .fc-sb.fc-squared {
+    background-image: url(../flags/1x1/sb.svg); }
+
+.fc-ioc-sol {
+  background-image: url(../flags/4x3/sb.svg); }
+  .fc-ioc-sol.fc-squared {
+    background-image: url(../flags/1x1/sb.svg); }
+
+.fc-alpha3-slb {
+  background-image: url(../flags/4x3/sb.svg); }
+  .fc-alpha3-slb.fc-squared {
+    background-image: url(../flags/1x1/sb.svg); }
+
+.fc-so {
+  background-image: url(../flags/4x3/so.svg); }
+  .fc-so.fc-squared {
+    background-image: url(../flags/1x1/so.svg); }
+
+.fc-ioc-som {
+  background-image: url(../flags/4x3/so.svg); }
+  .fc-ioc-som.fc-squared {
+    background-image: url(../flags/1x1/so.svg); }
+
+.fc-alpha3-som {
+  background-image: url(../flags/4x3/so.svg); }
+  .fc-alpha3-som.fc-squared {
+    background-image: url(../flags/1x1/so.svg); }
+
+.fc-za {
+  background-image: url(../flags/4x3/za.svg); }
+  .fc-za.fc-squared {
+    background-image: url(../flags/1x1/za.svg); }
+
+.fc-ioc-rsa {
+  background-image: url(../flags/4x3/za.svg); }
+  .fc-ioc-rsa.fc-squared {
+    background-image: url(../flags/1x1/za.svg); }
+
+.fc-alpha3-zaf {
+  background-image: url(../flags/4x3/za.svg); }
+  .fc-alpha3-zaf.fc-squared {
+    background-image: url(../flags/1x1/za.svg); }
+
+.fc-gs {
+  background-image: url(../flags/4x3/gs.svg); }
+  .fc-gs.fc-squared {
+    background-image: url(../flags/1x1/gs.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/gs.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/gs.svg); }
+
+.fc-alpha3-sgs {
+  background-image: url(../flags/4x3/gs.svg); }
+  .fc-alpha3-sgs.fc-squared {
+    background-image: url(../flags/1x1/gs.svg); }
+
+.fc-kr {
+  background-image: url(../flags/4x3/kr.svg); }
+  .fc-kr.fc-squared {
+    background-image: url(../flags/1x1/kr.svg); }
+
+.fc-ioc-kor {
+  background-image: url(../flags/4x3/kr.svg); }
+  .fc-ioc-kor.fc-squared {
+    background-image: url(../flags/1x1/kr.svg); }
+
+.fc-alpha3-kor {
+  background-image: url(../flags/4x3/kr.svg); }
+  .fc-alpha3-kor.fc-squared {
+    background-image: url(../flags/1x1/kr.svg); }
+
+.fc-ss {
+  background-image: url(../flags/4x3/ss.svg); }
+  .fc-ss.fc-squared {
+    background-image: url(../flags/1x1/ss.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/ss.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/ss.svg); }
+
+.fc-alpha3-ssd {
+  background-image: url(../flags/4x3/ss.svg); }
+  .fc-alpha3-ssd.fc-squared {
+    background-image: url(../flags/1x1/ss.svg); }
+
+.fc-es {
+  background-image: url(../flags/4x3/es.svg); }
+  .fc-es.fc-squared {
+    background-image: url(../flags/1x1/es.svg); }
+
+.fc-ioc-esp {
+  background-image: url(../flags/4x3/es.svg); }
+  .fc-ioc-esp.fc-squared {
+    background-image: url(../flags/1x1/es.svg); }
+
+.fc-alpha3-esp {
+  background-image: url(../flags/4x3/es.svg); }
+  .fc-alpha3-esp.fc-squared {
+    background-image: url(../flags/1x1/es.svg); }
+
+.fc-lk {
+  background-image: url(../flags/4x3/lk.svg); }
+  .fc-lk.fc-squared {
+    background-image: url(../flags/1x1/lk.svg); }
+
+.fc-ioc-sri {
+  background-image: url(../flags/4x3/lk.svg); }
+  .fc-ioc-sri.fc-squared {
+    background-image: url(../flags/1x1/lk.svg); }
+
+.fc-alpha3-lka {
+  background-image: url(../flags/4x3/lk.svg); }
+  .fc-alpha3-lka.fc-squared {
+    background-image: url(../flags/1x1/lk.svg); }
+
+.fc-sd {
+  background-image: url(../flags/4x3/sd.svg); }
+  .fc-sd.fc-squared {
+    background-image: url(../flags/1x1/sd.svg); }
+
+.fc-ioc-sud {
+  background-image: url(../flags/4x3/sd.svg); }
+  .fc-ioc-sud.fc-squared {
+    background-image: url(../flags/1x1/sd.svg); }
+
+.fc-alpha3-sdn {
+  background-image: url(../flags/4x3/sd.svg); }
+  .fc-alpha3-sdn.fc-squared {
+    background-image: url(../flags/1x1/sd.svg); }
+
+.fc-sr {
+  background-image: url(../flags/4x3/sr.svg); }
+  .fc-sr.fc-squared {
+    background-image: url(../flags/1x1/sr.svg); }
+
+.fc-ioc-sur {
+  background-image: url(../flags/4x3/sr.svg); }
+  .fc-ioc-sur.fc-squared {
+    background-image: url(../flags/1x1/sr.svg); }
+
+.fc-alpha3-sur {
+  background-image: url(../flags/4x3/sr.svg); }
+  .fc-alpha3-sur.fc-squared {
+    background-image: url(../flags/1x1/sr.svg); }
+
+.fc-sj {
+  background-image: url(../flags/4x3/sj.svg); }
+  .fc-sj.fc-squared {
+    background-image: url(../flags/1x1/sj.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/sj.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/sj.svg); }
+
+.fc-alpha3-sjm {
+  background-image: url(../flags/4x3/sj.svg); }
+  .fc-alpha3-sjm.fc-squared {
+    background-image: url(../flags/1x1/sj.svg); }
+
+.fc-sz {
+  background-image: url(../flags/4x3/sz.svg); }
+  .fc-sz.fc-squared {
+    background-image: url(../flags/1x1/sz.svg); }
+
+.fc-ioc-swz {
+  background-image: url(../flags/4x3/sz.svg); }
+  .fc-ioc-swz.fc-squared {
+    background-image: url(../flags/1x1/sz.svg); }
+
+.fc-alpha3-swz {
+  background-image: url(../flags/4x3/sz.svg); }
+  .fc-alpha3-swz.fc-squared {
+    background-image: url(../flags/1x1/sz.svg); }
+
+.fc-se {
+  background-image: url(../flags/4x3/se.svg); }
+  .fc-se.fc-squared {
+    background-image: url(../flags/1x1/se.svg); }
+
+.fc-ioc-swe {
+  background-image: url(../flags/4x3/se.svg); }
+  .fc-ioc-swe.fc-squared {
+    background-image: url(../flags/1x1/se.svg); }
+
+.fc-alpha3-swe {
+  background-image: url(../flags/4x3/se.svg); }
+  .fc-alpha3-swe.fc-squared {
+    background-image: url(../flags/1x1/se.svg); }
+
+.fc-ch {
+  background-image: url(../flags/4x3/ch.svg); }
+  .fc-ch.fc-squared {
+    background-image: url(../flags/1x1/ch.svg); }
+
+.fc-ioc-sui {
+  background-image: url(../flags/4x3/ch.svg); }
+  .fc-ioc-sui.fc-squared {
+    background-image: url(../flags/1x1/ch.svg); }
+
+.fc-alpha3-che {
+  background-image: url(../flags/4x3/ch.svg); }
+  .fc-alpha3-che.fc-squared {
+    background-image: url(../flags/1x1/ch.svg); }
+
+.fc-sy {
+  background-image: url(../flags/4x3/sy.svg); }
+  .fc-sy.fc-squared {
+    background-image: url(../flags/1x1/sy.svg); }
+
+.fc-ioc-syr {
+  background-image: url(../flags/4x3/sy.svg); }
+  .fc-ioc-syr.fc-squared {
+    background-image: url(../flags/1x1/sy.svg); }
+
+.fc-alpha3-syr {
+  background-image: url(../flags/4x3/sy.svg); }
+  .fc-alpha3-syr.fc-squared {
+    background-image: url(../flags/1x1/sy.svg); }
+
+.fc-tw {
+  background-image: url(../flags/4x3/tw.svg); }
+  .fc-tw.fc-squared {
+    background-image: url(../flags/1x1/tw.svg); }
+
+.fc-ioc-tpe {
+  background-image: url(../flags/4x3/tw.svg); }
+  .fc-ioc-tpe.fc-squared {
+    background-image: url(../flags/1x1/tw.svg); }
+
+.fc-alpha3-twn {
+  background-image: url(../flags/4x3/tw.svg); }
+  .fc-alpha3-twn.fc-squared {
+    background-image: url(../flags/1x1/tw.svg); }
+
+.fc-tj {
+  background-image: url(../flags/4x3/tj.svg); }
+  .fc-tj.fc-squared {
+    background-image: url(../flags/1x1/tj.svg); }
+
+.fc-ioc-tjk {
+  background-image: url(../flags/4x3/tj.svg); }
+  .fc-ioc-tjk.fc-squared {
+    background-image: url(../flags/1x1/tj.svg); }
+
+.fc-alpha3-tjk {
+  background-image: url(../flags/4x3/tj.svg); }
+  .fc-alpha3-tjk.fc-squared {
+    background-image: url(../flags/1x1/tj.svg); }
+
+.fc-tz {
+  background-image: url(../flags/4x3/tz.svg); }
+  .fc-tz.fc-squared {
+    background-image: url(../flags/1x1/tz.svg); }
+
+.fc-ioc-tan {
+  background-image: url(../flags/4x3/tz.svg); }
+  .fc-ioc-tan.fc-squared {
+    background-image: url(../flags/1x1/tz.svg); }
+
+.fc-alpha3-tza {
+  background-image: url(../flags/4x3/tz.svg); }
+  .fc-alpha3-tza.fc-squared {
+    background-image: url(../flags/1x1/tz.svg); }
+
+.fc-th {
+  background-image: url(../flags/4x3/th.svg); }
+  .fc-th.fc-squared {
+    background-image: url(../flags/1x1/th.svg); }
+
+.fc-ioc-tha {
+  background-image: url(../flags/4x3/th.svg); }
+  .fc-ioc-tha.fc-squared {
+    background-image: url(../flags/1x1/th.svg); }
+
+.fc-alpha3-tha {
+  background-image: url(../flags/4x3/th.svg); }
+  .fc-alpha3-tha.fc-squared {
+    background-image: url(../flags/1x1/th.svg); }
+
+.fc-tl {
+  background-image: url(../flags/4x3/tl.svg); }
+  .fc-tl.fc-squared {
+    background-image: url(../flags/1x1/tl.svg); }
+
+.fc-ioc-tls {
+  background-image: url(../flags/4x3/tl.svg); }
+  .fc-ioc-tls.fc-squared {
+    background-image: url(../flags/1x1/tl.svg); }
+
+.fc-alpha3-tls {
+  background-image: url(../flags/4x3/tl.svg); }
+  .fc-alpha3-tls.fc-squared {
+    background-image: url(../flags/1x1/tl.svg); }
+
+.fc-tg {
+  background-image: url(../flags/4x3/tg.svg); }
+  .fc-tg.fc-squared {
+    background-image: url(../flags/1x1/tg.svg); }
+
+.fc-ioc-tog {
+  background-image: url(../flags/4x3/tg.svg); }
+  .fc-ioc-tog.fc-squared {
+    background-image: url(../flags/1x1/tg.svg); }
+
+.fc-alpha3-tgo {
+  background-image: url(../flags/4x3/tg.svg); }
+  .fc-alpha3-tgo.fc-squared {
+    background-image: url(../flags/1x1/tg.svg); }
+
+.fc-tk {
+  background-image: url(../flags/4x3/tk.svg); }
+  .fc-tk.fc-squared {
+    background-image: url(../flags/1x1/tk.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/tk.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/tk.svg); }
+
+.fc-alpha3-tkl {
+  background-image: url(../flags/4x3/tk.svg); }
+  .fc-alpha3-tkl.fc-squared {
+    background-image: url(../flags/1x1/tk.svg); }
+
+.fc-to {
+  background-image: url(../flags/4x3/to.svg); }
+  .fc-to.fc-squared {
+    background-image: url(../flags/1x1/to.svg); }
+
+.fc-ioc-tga {
+  background-image: url(../flags/4x3/to.svg); }
+  .fc-ioc-tga.fc-squared {
+    background-image: url(../flags/1x1/to.svg); }
+
+.fc-alpha3-ton {
+  background-image: url(../flags/4x3/to.svg); }
+  .fc-alpha3-ton.fc-squared {
+    background-image: url(../flags/1x1/to.svg); }
+
+.fc-tt {
+  background-image: url(../flags/4x3/tt.svg); }
+  .fc-tt.fc-squared {
+    background-image: url(../flags/1x1/tt.svg); }
+
+.fc-ioc-tto {
+  background-image: url(../flags/4x3/tt.svg); }
+  .fc-ioc-tto.fc-squared {
+    background-image: url(../flags/1x1/tt.svg); }
+
+.fc-alpha3-tto {
+  background-image: url(../flags/4x3/tt.svg); }
+  .fc-alpha3-tto.fc-squared {
+    background-image: url(../flags/1x1/tt.svg); }
+
+.fc-tn {
+  background-image: url(../flags/4x3/tn.svg); }
+  .fc-tn.fc-squared {
+    background-image: url(../flags/1x1/tn.svg); }
+
+.fc-ioc-tun {
+  background-image: url(../flags/4x3/tn.svg); }
+  .fc-ioc-tun.fc-squared {
+    background-image: url(../flags/1x1/tn.svg); }
+
+.fc-alpha3-tun {
+  background-image: url(../flags/4x3/tn.svg); }
+  .fc-alpha3-tun.fc-squared {
+    background-image: url(../flags/1x1/tn.svg); }
+
+.fc-tr {
+  background-image: url(../flags/4x3/tr.svg); }
+  .fc-tr.fc-squared {
+    background-image: url(../flags/1x1/tr.svg); }
+
+.fc-ioc-tur {
+  background-image: url(../flags/4x3/tr.svg); }
+  .fc-ioc-tur.fc-squared {
+    background-image: url(../flags/1x1/tr.svg); }
+
+.fc-alpha3-tur {
+  background-image: url(../flags/4x3/tr.svg); }
+  .fc-alpha3-tur.fc-squared {
+    background-image: url(../flags/1x1/tr.svg); }
+
+.fc-tm {
+  background-image: url(../flags/4x3/tm.svg); }
+  .fc-tm.fc-squared {
+    background-image: url(../flags/1x1/tm.svg); }
+
+.fc-ioc-tkm {
+  background-image: url(../flags/4x3/tm.svg); }
+  .fc-ioc-tkm.fc-squared {
+    background-image: url(../flags/1x1/tm.svg); }
+
+.fc-alpha3-tkm {
+  background-image: url(../flags/4x3/tm.svg); }
+  .fc-alpha3-tkm.fc-squared {
+    background-image: url(../flags/1x1/tm.svg); }
+
+.fc-tc {
+  background-image: url(../flags/4x3/tc.svg); }
+  .fc-tc.fc-squared {
+    background-image: url(../flags/1x1/tc.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/tc.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/tc.svg); }
+
+.fc-alpha3-tca {
+  background-image: url(../flags/4x3/tc.svg); }
+  .fc-alpha3-tca.fc-squared {
+    background-image: url(../flags/1x1/tc.svg); }
+
+.fc-tv {
+  background-image: url(../flags/4x3/tv.svg); }
+  .fc-tv.fc-squared {
+    background-image: url(../flags/1x1/tv.svg); }
+
+.fc-ioc-tuv {
+  background-image: url(../flags/4x3/tv.svg); }
+  .fc-ioc-tuv.fc-squared {
+    background-image: url(../flags/1x1/tv.svg); }
+
+.fc-alpha3-tuv {
+  background-image: url(../flags/4x3/tv.svg); }
+  .fc-alpha3-tuv.fc-squared {
+    background-image: url(../flags/1x1/tv.svg); }
+
+.fc-ug {
+  background-image: url(../flags/4x3/ug.svg); }
+  .fc-ug.fc-squared {
+    background-image: url(../flags/1x1/ug.svg); }
+
+.fc-ioc-uga {
+  background-image: url(../flags/4x3/ug.svg); }
+  .fc-ioc-uga.fc-squared {
+    background-image: url(../flags/1x1/ug.svg); }
+
+.fc-alpha3-uga {
+  background-image: url(../flags/4x3/ug.svg); }
+  .fc-alpha3-uga.fc-squared {
+    background-image: url(../flags/1x1/ug.svg); }
+
+.fc-ua {
+  background-image: url(../flags/4x3/ua.svg); }
+  .fc-ua.fc-squared {
+    background-image: url(../flags/1x1/ua.svg); }
+
+.fc-ioc-ukr {
+  background-image: url(../flags/4x3/ua.svg); }
+  .fc-ioc-ukr.fc-squared {
+    background-image: url(../flags/1x1/ua.svg); }
+
+.fc-alpha3-ukr {
+  background-image: url(../flags/4x3/ua.svg); }
+  .fc-alpha3-ukr.fc-squared {
+    background-image: url(../flags/1x1/ua.svg); }
+
+.fc-ae {
+  background-image: url(../flags/4x3/ae.svg); }
+  .fc-ae.fc-squared {
+    background-image: url(../flags/1x1/ae.svg); }
+
+.fc-ioc-uae {
+  background-image: url(../flags/4x3/ae.svg); }
+  .fc-ioc-uae.fc-squared {
+    background-image: url(../flags/1x1/ae.svg); }
+
+.fc-alpha3-are {
+  background-image: url(../flags/4x3/ae.svg); }
+  .fc-alpha3-are.fc-squared {
+    background-image: url(../flags/1x1/ae.svg); }
+
+.fc-gb {
+  background-image: url(../flags/4x3/gb.svg); }
+  .fc-gb.fc-squared {
+    background-image: url(../flags/1x1/gb.svg); }
+
+.fc-ioc-gbr {
+  background-image: url(../flags/4x3/gb.svg); }
+  .fc-ioc-gbr.fc-squared {
+    background-image: url(../flags/1x1/gb.svg); }
+
+.fc-alpha3-gbr {
+  background-image: url(../flags/4x3/gb.svg); }
+  .fc-alpha3-gbr.fc-squared {
+    background-image: url(../flags/1x1/gb.svg); }
+
+.fc-us {
+  background-image: url(../flags/4x3/us.svg); }
+  .fc-us.fc-squared {
+    background-image: url(../flags/1x1/us.svg); }
+
+.fc-ioc-usa {
+  background-image: url(../flags/4x3/us.svg); }
+  .fc-ioc-usa.fc-squared {
+    background-image: url(../flags/1x1/us.svg); }
+
+.fc-alpha3-usa {
+  background-image: url(../flags/4x3/us.svg); }
+  .fc-alpha3-usa.fc-squared {
+    background-image: url(../flags/1x1/us.svg); }
+
+.fc-uy {
+  background-image: url(../flags/4x3/uy.svg); }
+  .fc-uy.fc-squared {
+    background-image: url(../flags/1x1/uy.svg); }
+
+.fc-ioc-uru {
+  background-image: url(../flags/4x3/uy.svg); }
+  .fc-ioc-uru.fc-squared {
+    background-image: url(../flags/1x1/uy.svg); }
+
+.fc-alpha3-ury {
+  background-image: url(../flags/4x3/uy.svg); }
+  .fc-alpha3-ury.fc-squared {
+    background-image: url(../flags/1x1/uy.svg); }
+
+.fc-uz {
+  background-image: url(../flags/4x3/uz.svg); }
+  .fc-uz.fc-squared {
+    background-image: url(../flags/1x1/uz.svg); }
+
+.fc-ioc-uzb {
+  background-image: url(../flags/4x3/uz.svg); }
+  .fc-ioc-uzb.fc-squared {
+    background-image: url(../flags/1x1/uz.svg); }
+
+.fc-alpha3-uzb {
+  background-image: url(../flags/4x3/uz.svg); }
+  .fc-alpha3-uzb.fc-squared {
+    background-image: url(../flags/1x1/uz.svg); }
+
+.fc-vu {
+  background-image: url(../flags/4x3/vu.svg); }
+  .fc-vu.fc-squared {
+    background-image: url(../flags/1x1/vu.svg); }
+
+.fc-ioc-van {
+  background-image: url(../flags/4x3/vu.svg); }
+  .fc-ioc-van.fc-squared {
+    background-image: url(../flags/1x1/vu.svg); }
+
+.fc-alpha3-vut {
+  background-image: url(../flags/4x3/vu.svg); }
+  .fc-alpha3-vut.fc-squared {
+    background-image: url(../flags/1x1/vu.svg); }
+
+.fc-ve {
+  background-image: url(../flags/4x3/ve.svg); }
+  .fc-ve.fc-squared {
+    background-image: url(../flags/1x1/ve.svg); }
+
+.fc-ioc-ven {
+  background-image: url(../flags/4x3/ve.svg); }
+  .fc-ioc-ven.fc-squared {
+    background-image: url(../flags/1x1/ve.svg); }
+
+.fc-alpha3-ven {
+  background-image: url(../flags/4x3/ve.svg); }
+  .fc-alpha3-ven.fc-squared {
+    background-image: url(../flags/1x1/ve.svg); }
+
+.fc-vn {
+  background-image: url(../flags/4x3/vn.svg); }
+  .fc-vn.fc-squared {
+    background-image: url(../flags/1x1/vn.svg); }
+
+.fc-ioc-vie {
+  background-image: url(../flags/4x3/vn.svg); }
+  .fc-ioc-vie.fc-squared {
+    background-image: url(../flags/1x1/vn.svg); }
+
+.fc-alpha3-vnm {
+  background-image: url(../flags/4x3/vn.svg); }
+  .fc-alpha3-vnm.fc-squared {
+    background-image: url(../flags/1x1/vn.svg); }
+
+.fc-wf {
+  background-image: url(../flags/4x3/wf.svg); }
+  .fc-wf.fc-squared {
+    background-image: url(../flags/1x1/wf.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/wf.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/wf.svg); }
+
+.fc-alpha3-wlf {
+  background-image: url(../flags/4x3/wf.svg); }
+  .fc-alpha3-wlf.fc-squared {
+    background-image: url(../flags/1x1/wf.svg); }
+
+.fc-eh {
+  background-image: url(../flags/4x3/eh.svg); }
+  .fc-eh.fc-squared {
+    background-image: url(../flags/1x1/eh.svg); }
+
+.fc-ioc- {
+  background-image: url(../flags/4x3/eh.svg); }
+  .fc-ioc-.fc-squared {
+    background-image: url(../flags/1x1/eh.svg); }
+
+.fc-alpha3-esh {
+  background-image: url(../flags/4x3/eh.svg); }
+  .fc-alpha3-esh.fc-squared {
+    background-image: url(../flags/1x1/eh.svg); }
+
+.fc-ye {
+  background-image: url(../flags/4x3/ye.svg); }
+  .fc-ye.fc-squared {
+    background-image: url(../flags/1x1/ye.svg); }
+
+.fc-ioc-yem {
+  background-image: url(../flags/4x3/ye.svg); }
+  .fc-ioc-yem.fc-squared {
+    background-image: url(../flags/1x1/ye.svg); }
+
+.fc-alpha3-yem {
+  background-image: url(../flags/4x3/ye.svg); }
+  .fc-alpha3-yem.fc-squared {
+    background-image: url(../flags/1x1/ye.svg); }
+
+.fc-zm {
+  background-image: url(../flags/4x3/zm.svg); }
+  .fc-zm.fc-squared {
+    background-image: url(../flags/1x1/zm.svg); }
+
+.fc-ioc-zam {
+  background-image: url(../flags/4x3/zm.svg); }
+  .fc-ioc-zam.fc-squared {
+    background-image: url(../flags/1x1/zm.svg); }
+
+.fc-alpha3-zmb {
+  background-image: url(../flags/4x3/zm.svg); }
+  .fc-alpha3-zmb.fc-squared {
+    background-image: url(../flags/1x1/zm.svg); }
+
+.fc-zw {
+  background-image: url(../flags/4x3/zw.svg); }
+  .fc-zw.fc-squared {
+    background-image: url(../flags/1x1/zw.svg); }
+
+.fc-ioc-zim {
+  background-image: url(../flags/4x3/zw.svg); }
+  .fc-ioc-zim.fc-squared {
+    background-image: url(../flags/1x1/zw.svg); }
+
+.fc-alpha3-zwe {
+  background-image: url(../flags/4x3/zw.svg); }
+  .fc-alpha3-zwe.fc-squared {
+    background-image: url(../flags/1x1/zw.svg); }
