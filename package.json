@@ -1,10 +1,11 @@
 {
   "name": "flag-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection all of country flags in SVG - And push to CSS class",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass sass/ -o css/ & node-sass --output-style compressed sass/flag-css.scss css/flag-css.min.css"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,7 @@
     "url": "https://github.com/Quynh-Nguyen/country-flag-css/issues"
   },
   "homepage": "https://github.com/Quynh-Nguyen/country-flag-css#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
 }
