@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quynh-Nguyen/country-flag-css.git"
+    "url": "git+https://github.com/Quynh-Nguyen/flag-css.git"
   },
   "keywords": [
     "flag",
@@ -19,9 +19,9 @@
   "author": "Quynh Nguyen <likeguitarz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Quynh-Nguyen/country-flag-css/issues"
+    "url": "https://github.com/Quynh-Nguyen/flag-css/issues"
   },
-  "homepage": "https://github.com/Quynh-Nguyen/country-flag-css#readme",
+  "homepage": "https://github.com/Quynh-Nguyen/flag-css#readme",
   "devDependencies": {
     "node-sass": "^4.13.0"
   }
