@@ -1,6 +1,6 @@
 {
   "name": "flag-css",
-  "version": "1.0.4-2",
+  "version": "1.0.5",
   "description": "A collection all of country flags in SVG - And push to CSS class",
   "main": "index.js",
   "scripts": {
