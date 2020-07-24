@@ -39,7 +39,7 @@
     }
   }
 
-  @if variable-exists(iocCode) && ($iocCode != '') {
+  @if variable-exists(iocCode) and ($iocCode != '') {
     .fc-ioc-#{$iocCode} {
       background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
       &.fc-squared {
@@ -48,7 +48,7 @@
     }
   }
 
-  @if variable-exists(alpha3Code) && ($alpha3Code != '') {
+  @if variable-exists(alpha3Code) and ($alpha3Code != '') {
     .fc-alpha3-#{$alpha3Code} {
       background-image: url(#{$flag-icon-css-path}#{$flag-icon-rect-path}/#{$alpha2Code}.svg);
       &.fc-squared {
